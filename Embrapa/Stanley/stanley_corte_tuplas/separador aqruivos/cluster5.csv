@@ -1,0 +1,515 @@
+manejo,milho,?,CO,MS,pequena,cluster5
+'adubacao por cobertura',?,?,CO,GO,pequena,cluster5
+adubacao,?,?,CO,MT,pequena,cluster5
+manejo,melancia,?,CO,GO,pequena,cluster5
+?,cana-de-acucar,?,CO,GO,pequena,cluster5
+'irrigacao por gotejamento',?,?,CO,GO,pequena,cluster5
+irrigacao,laranja,?,CO,MT,pequena,cluster5
+agrotoxico,arroz,?,CO,MS,pequena,cluster5
+manejo,?,?,CO,MT,pequena,cluster5
+manejo,?,latossolo,CO,MT,pequena,cluster5
+irrigacao,laranja,?,CO,MT,pequena,cluster5
+irrigacao,banana,?,CO,MT,pequena,cluster5
+manejo,?,?,CO,DF,pequena,cluster5
+manejo,soja,?,CO,MS,pequena,cluster5
+adubacao,?,?,CO,MS,pequena,cluster5
+irrigacao,abacaxi,?,CO,MS,pequena,cluster5
+irrigacao,?,?,CO,MS,pequena,cluster5
+irrigacao,limao,?,CO,MT,pequena,cluster5
+manejo,melancia,?,CO,GO,pequena,cluster5
+fertilizante,milho,?,CO,DF,pequena,cluster5
+irrigacao,banana,?,CO,MT,pequena,cluster5
+irrigacao,?,?,CO,MS,pequena,cluster5
+irrigacao,arroz,?,CO,MS,pequena,cluster5
+manejo,?,?,CO,MT,pequena,cluster5
+irrigacao,banana,?,CO,MT,pequena,cluster5
+'manejo organico',?,?,CO,GO,pequena,cluster5
+irrigacao,laranja,?,CO,MT,pequena,cluster5
+adubacao,arroz,?,CO,MT,pequena,cluster5
+'plantio direto',soja,?,CO,MS,pequena,cluster5
+?,?,latossolo,CO,GO,pequena,cluster5
+irrigacao,laranja,?,CO,MT,pequena,cluster5
+fertilizante,milho,?,CO,DF,pequena,cluster5
+irrigacao,abacaxi,?,CO,MS,pequena,cluster5
+?,soja,?,CO,MT,pequena,cluster5
+manejo,soja,?,CO,GO,pequena,cluster5
+'plantio direto',?,?,CO,MS,pequena,cluster5
+irrigacao,tomate,?,CO,DF,pequena,cluster5
+irrigacao,arroz,?,CO,MS,pequena,cluster5
+irrigacao,laranja,?,CO,MT,pequena,cluster5
+irrigacao,?,?,CO,MS,pequena,cluster5
+adubacao,?,?,CO,DF,pequena,cluster5
+irrigacao,trigo,?,CO,DF,pequena,cluster5
+manejo,?,?,CO,MT,pequena,cluster5
+irrigacao,abacaxi,?,CO,MS,pequena,cluster5
+adubacao,arroz,?,CO,MT,pequena,cluster5
+irrigacao,arroz,?,CO,MS,pequena,cluster5
+irrigacao,?,?,CO,MT,pequena,cluster5
+manejo,soja,?,CO,GO,pequena,cluster5
+irrigacao,?,?,CO,GO,pequena,cluster5
+adubacao,arroz,?,CO,MT,pequena,cluster5
+manejo,pimentao,argissolo,CO,GO,pequena,cluster5
+irrigacao,limao,?,CO,MT,pequena,cluster5
+aracao,?,?,CO,GO,pequena,cluster5
+?,arroz,?,CO,MS,pequena,cluster5
+irrigacao,?,?,CO,GO,pequena,cluster5
+?,mandioca,?,CO,MS,pequena,cluster5
+adubacao,trigo,latossolo,CO,DF,pequena,cluster5
+irrigacao,trigo,?,CO,DF,pequena,cluster5
+irrigacao,limao,?,CO,MT,pequena,cluster5
+adubacao,soja,?,CO,MS,pequena,cluster5
+'plantio direto',feijao,?,CO,MT,pequena,cluster5
+?,girassol,?,CO,MT,pequena,cluster5
+'plantio direto',?,?,CO,MT,pequena,cluster5
+'manejo ecologico',?,?,CO,DF,pequena,cluster5
+'plantio direto',soja,?,CO,MS,pequena,cluster5
+'irrigacao localizada',?,?,CO,GO,pequena,cluster5
+manejo,feijao,?,CO,GO,pequena,cluster5
+'agricultura de precisao',?,?,CO,MT,pequena,cluster5
+irrigacao,banana,?,CO,MT,pequena,cluster5
+'plantio direto',?,?,CO,MT,pequena,cluster5
+manejo,?,latossolo,CO,MT,pequena,cluster5
+adubacao,?,?,CO,MS,pequena,cluster5
+manejo,soja,?,CO,MT,pequena,cluster5
+irrigacao,abacaxi,?,CO,MS,pequena,cluster5
+irrigacao,?,?,CO,MT,pequena,cluster5
+adubacao,?,?,CO,DF,pequena,cluster5
+'manejo da cultura',melancia,?,CO,GO,pequena,cluster5
+irrigacao,banana,?,CO,MT,pequena,cluster5
+manejo,?,?,CO,MS,pequena,cluster5
+irrigacao,girassol,?,CO,GO,pequena,cluster5
+manejo,?,latossolo,CO,GO,pequena,cluster5
+?,mandioca,latossolo,CO,GO,pequena,cluster5
+?,algodao,?,CO,MS,pequena,cluster5
+manejo,melancia,?,CO,GO,pequena,cluster5
+fertilizante,cafe,?,CO,DF,pequena,cluster5
+manejo,milho,?,CO,MS,pequena,cluster5
+adubacao,girassol,?,CO,GO,pequena,cluster5
+irrigacao,banana,latossolo,CO,MS,pequena,cluster5
+irrigacao,feijao,?,CO,GO,pequena,cluster5
+irrigacao,banana,latossolo,CO,MS,pequena,cluster5
+manejo,?,?,CO,MT,pequena,cluster5
+adubacao,?,?,CO,GO,pequena,cluster5
+?,cana-de-acucar,?,CO,MT,pequena,cluster5
+irrigacao,arroz,?,CO,MT,pequena,cluster5
+?,arroz,?,CO,MT,pequena,cluster5
+?,cana-de-acucar,?,CO,MT,pequena,cluster5
+adubacao,?,?,CO,GO,pequena,cluster5
+irrigacao,tomate,?,CO,DF,pequena,cluster5
+?,batata,?,CO,GO,pequena,cluster5
+irrigacao,?,?,CO,MT,pequena,cluster5
+irrigacao,trigo,?,CO,DF,pequena,cluster5
+manejo,soja,?,CO,MS,pequena,cluster5
+irrigacao,tomate,?,CO,DF,pequena,cluster5
+fertilizante,milho,?,CO,DF,pequena,cluster5
+?,seringueira,?,CO,MS,pequena,cluster5
+'agricultura de precisao',?,?,CO,MT,pequena,cluster5
+manejo,arroz,?,CO,GO,pequena,cluster5
+manejo,?,?,CO,DF,pequena,cluster5
+irrigacao,?,?,CO,MS,pequena,cluster5
+irrigacao,banana,latossolo,CO,MS,pequena,cluster5
+adubacao,banana,?,CO,GO,pequena,cluster5
+irrigacao,?,?,CO,GO,pequena,cluster5
+irrigacao,girassol,?,CO,GO,pequena,cluster5
+?,cana-de-acucar,?,CO,GO,pequena,cluster5
+?,soja,?,CO,MS,pequena,cluster5
+'agricultura de precisao',?,?,CO,MT,pequena,cluster5
+adubacao,arroz,?,CO,MT,pequena,cluster5
+adubacao,?,?,CO,GO,pequena,cluster5
+'plantio direto',?,?,CO,MT,pequena,cluster5
+adubacao,mandioca,?,CO,GO,pequena,cluster5
+irrigacao,laranja,?,CO,MT,pequena,cluster5
+irrigacao,limao,?,CO,MT,pequena,cluster5
+adubacao,mandioca,?,CO,GO,pequena,cluster5
+adubacao,soja,latossolo,CO,MT,pequena,cluster5
+'plantio direto',?,?,CO,MT,pequena,cluster5
+genotipo,?,?,CO,DF,pequena,cluster5
+adubacao,?,?,CO,GO,pequena,cluster5
+'manejo do solo',sorgo,?,CO,MS,pequena,cluster5
+?,feijao,?,CO,GO,pequena,cluster5
+irrigacao,limao,?,CO,MT,pequena,cluster5
+irrigacao,feijao,?,CO,GO,pequena,cluster5
+?,soja,?,CO,GO,pequena,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+manejo,melancia,?,CO,GO,media,cluster5
+'sistema convencional',arroz,?,CO,GO,media,cluster5
+secagem,arroz,?,CO,GO,media,cluster5
+manejo,arroz,?,CO,GO,media,cluster5
+aracao,arroz,?,CO,GO,media,cluster5
+aracao,arroz,?,CO,GO,media,cluster5
+adubacao,arroz,?,CO,GO,media,cluster5
+adubacao,arroz,?,CO,GO,media,cluster5
+manejo,?,?,CO,MS,media,cluster5
+manejo,?,?,CO,MS,media,cluster5
+irrigacao,banana,?,CO,MT,media,cluster5
+irrigacao,banana,?,CO,MT,media,cluster5
+irrigacao,banana,?,CO,MT,media,cluster5
+irrigacao,banana,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,GO,media,cluster5
+irrigacao,?,?,CO,GO,media,cluster5
+irrigacao,?,?,CO,GO,media,cluster5
+'pivo central',?,?,CO,GO,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+'manejo do solo',?,?,CO,MS,media,cluster5
+manejo,?,?,CO,MS,media,cluster5
+'plantio direto',soja,?,CO,MS,media,cluster5
+'plantio direto',soja,?,CO,MS,media,cluster5
+manejo,soja,?,CO,MS,media,cluster5
+manejo,?,latossolo,CO,GO,media,cluster5
+manejo,?,latossolo,CO,MT,media,cluster5
+'plantio direto',?,latossolo,CO,GO,media,cluster5
+manejo,?,latossolo,CO,GO,media,cluster5
+manejo,?,?,CO,DF,media,cluster5
+adubacao,?,?,CO,DF,media,cluster5
+adubacao,?,?,CO,DF,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,banana,?,CO,MT,media,cluster5
+irrigacao,banana,?,CO,MT,media,cluster5
+irrigacao,banana,?,CO,MT,media,cluster5
+irrigacao,banana,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,GO,media,cluster5
+irrigacao,?,?,CO,GO,media,cluster5
+irrigacao,?,?,CO,GO,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+manejo,?,latossolo,CO,GO,media,cluster5
+adubacao,mandioca,?,CO,GO,media,cluster5
+adubacao,mandioca,?,CO,GO,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+'plantio direto',?,latossolo,CO,GO,media,cluster5
+manejo,?,latossolo,CO,GO,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+'plantio direto',milho,latossolo,CO,MT,media,cluster5
+'plantio direto',batata,latossolo,CO,MT,media,cluster5
+'plantio direto',batata,latossolo,CO,MT,media,cluster5
+manejo,milho,latossolo,CO,MT,media,cluster5
+manejo,batata,latossolo,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+'manejo de agua',?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+manejo,?,?,CO,MT,media,cluster5
+manejo,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,GO,media,cluster5
+irrigacao,?,?,CO,GO,media,cluster5
+irrigacao,?,?,CO,GO,media,cluster5
+irrigacao,?,?,CO,GO,media,cluster5
+manejo,?,?,CO,GO,media,cluster5
+irrigacao,?,?,CO,DF,media,cluster5
+irrigacao,?,?,CO,DF,media,cluster5
+irrigacao,?,?,CO,DF,media,cluster5
+irrigacao,arroz,?,CO,MS,media,cluster5
+irrigacao,arroz,?,CO,MS,media,cluster5
+irrigacao,arroz,?,CO,MS,media,cluster5
+irrigacao,arroz,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,GO,media,cluster5
+irrigacao,?,?,CO,GO,media,cluster5
+irrigacao,?,?,CO,GO,media,cluster5
+'irrigacao localizada',?,?,CO,GO,media,cluster5
+'irrigacao por gotejamento',?,?,CO,GO,media,cluster5
+irrigacao,trigo,?,CO,DF,media,cluster5
+irrigacao,trigo,?,CO,DF,media,cluster5
+irrigacao,trigo,?,CO,DF,media,cluster5
+irrigacao,?,?,CO,GO,media,cluster5
+irrigacao,?,?,CO,GO,media,cluster5
+irrigacao,?,?,CO,GO,media,cluster5
+manejo,?,organossolo,CO,DF,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+'agricultura de precisao',?,?,CO,MT,media,cluster5
+'agricultura de precisao',?,?,CO,MT,media,cluster5
+'agricultura de precisao',?,?,CO,MT,media,cluster5
+'plantio direto',?,?,CO,MT,media,cluster5
+'plantio direto',?,?,CO,MT,media,cluster5
+manejo,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,DF,media,cluster5
+irrigacao,?,?,CO,DF,media,cluster5
+irrigacao,?,?,CO,DF,media,cluster5
+manejo,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+manejo,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MT,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,GO,media,cluster5
+irrigacao,?,?,CO,GO,media,cluster5
+irrigacao,?,?,CO,GO,media,cluster5
+'plantio direto',soja,?,CO,MS,media,cluster5
+'plantio direto',soja,?,CO,MS,media,cluster5
+manejo,soja,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,GO,media,cluster5
+irrigacao,?,?,CO,GO,media,cluster5
+irrigacao,?,?,CO,GO,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,?,?,CO,MS,media,cluster5
+irrigacao,arroz,?,CO,MS,grande,cluster5
+irrigacao,?,?,CO,DF,grande,cluster5
+manejo,?,?,CO,MS,grande,cluster5
+'irrigacao por gotejamento',?,?,CO,GO,grande,cluster5
+manejo,?,latossolo,CO,MT,grande,cluster5
+irrigacao,trigo,?,CO,DF,grande,cluster5
+irrigacao,?,?,CO,MT,grande,cluster5
+manejo,melancia,?,CO,GO,grande,cluster5
+irrigacao,?,?,CO,GO,grande,cluster5
+'plantio direto',?,?,CO,MT,grande,cluster5
+manejo,?,latossolo,CO,MT,grande,cluster5
+manejo,?,?,CO,MT,grande,cluster5
+irrigacao,?,?,CO,MS,grande,cluster5
+manejo,?,latossolo,CO,GO,grande,cluster5
+manejo,?,?,CO,MS,grande,cluster5
+manejo,?,?,CO,MS,grande,cluster5
+irrigacao,?,?,CO,GO,grande,cluster5
+irrigacao,?,?,CO,GO,grande,cluster5
+manejo,?,?,CO,MT,grande,cluster5
+irrigacao,?,?,CO,MS,grande,cluster5
+irrigacao,?,?,CO,MS,grande,cluster5
+manejo,milho,latossolo,CO,MT,grande,cluster5
+irrigacao,?,?,CO,MS,grande,cluster5
+irrigacao,?,?,CO,MS,grande,cluster5
+irrigacao,banana,?,CO,MT,grande,cluster5
+'plantio direto',?,latossolo,CO,GO,grande,cluster5
+manejo,?,?,CO,GO,grande,cluster5
+manejo,?,?,CO,MS,grande,cluster5
+irrigacao,?,?,CO,GO,grande,cluster5
+'agricultura de precisao',?,?,CO,MT,grande,cluster5
+'plantio direto',soja,?,CO,MS,grande,cluster5
+irrigacao,?,?,CO,MS,grande,cluster5
+adubacao,mandioca,?,CO,GO,grande,cluster5
+'plantio direto',?,?,CO,MT,grande,cluster5
+secagem,arroz,?,CO,GO,grande,cluster5
+irrigacao,?,?,CO,MT,grande,cluster5
+'plantio direto',?,latossolo,CO,GO,grande,cluster5
+irrigacao,?,?,CO,GO,grande,cluster5
+irrigacao,?,?,CO,MS,grande,cluster5
+irrigacao,?,?,CO,GO,grande,cluster5
+'manejo do solo',?,?,CO,MS,grande,cluster5
+irrigacao,?,?,CO,MS,grande,cluster5
+irrigacao,?,?,CO,GO,grande,cluster5
+irrigacao,?,?,CO,MT,grande,cluster5
+irrigacao,?,?,CO,DF,grande,cluster5
+irrigacao,?,?,CO,MT,grande,cluster5
+irrigacao,?,?,CO,MT,grande,cluster5
+irrigacao,arroz,?,CO,MS,grande,cluster5
+'irrigacao por gotejamento',?,?,CO,GO,grande,cluster5
+irrigacao,?,?,CO,MT,grande,cluster5
+manejo,soja,?,CO,MS,grande,cluster5
+'manejo ecologico',?,?,CO,DF,grande,cluster5
+irrigacao,?,?,CO,MT,grande,cluster5
+irrigacao,?,?,CO,GO,grande,cluster5
+manejo,batata,latossolo,CO,MT,grande,cluster5
+manejo,?,?,CO,MT,grande,cluster5
+irrigacao,?,?,CO,GO,grande,cluster5
+irrigacao,trigo,?,CO,DF,grande,cluster5
+irrigacao,?,?,CO,DF,grande,cluster5
+'plantio direto',soja,?,CO,MS,grande,cluster5
+irrigacao,banana,?,CO,MT,grande,cluster5
+irrigacao,?,?,CO,MS,grande,cluster5
+adubacao,?,?,CO,DF,grande,cluster5
+irrigacao,?,?,CO,MT,grande,cluster5
+irrigacao,arroz,?,CO,MS,grande,cluster5
+irrigacao,?,?,CO,MS,grande,cluster5
+'sistema convencional',arroz,?,CO,GO,grande,cluster5
+'plantio direto',batata,latossolo,CO,MT,grande,cluster5
+irrigacao,?,?,CO,MT,grande,cluster5
+irrigacao,?,?,CO,MS,grande,cluster5
+irrigacao,trigo,?,CO,DF,grande,cluster5
+'plantio direto',milho,latossolo,CO,MT,grande,cluster5
+irrigacao,?,?,CO,MT,grande,cluster5
+irrigacao,banana,?,CO,MT,grande,cluster5
+irrigacao,?,?,CO,GO,grande,cluster5
+'plantio direto',?,latossolo,CO,GO,grande,cluster5
+irrigacao,?,?,CO,GO,grande,cluster5
+irrigacao,?,?,CO,MS,grande,cluster5
+'manejo do ambiente',?,?,CO,MS,grande,cluster5
+irrigacao,?,?,CO,MS,grande,cluster5
+irrigacao,?,?,CO,MS,grande,cluster5
+irrigacao,?,?,CO,GO,grande,cluster5
+adubacao,arroz,?,CO,GO,grande,cluster5
+irrigacao,?,?,CO,GO,grande,cluster5
+secagem,arroz,?,CO,GO,grande,cluster5
+manejo,?,latossolo,CO,GO,grande,cluster5
+irrigacao,?,?,CO,DF,grande,cluster5
+irrigacao,?,?,CO,MS,grande,cluster5
+manejo,?,organossolo,CO,DF,grande,cluster5
+irrigacao,?,?,CO,GO,grande,cluster5
+irrigacao,?,?,CO,GO,grande,cluster5
+manejo,?,?,CO,MS,grande,cluster5
+'plantio direto',soja,?,CO,MS,grande,cluster5
+'plantio direto',?,latossolo,CO,GO,grande,cluster5
+irrigacao,?,?,CO,GO,grande,cluster5
+irrigacao,?,?,CO,MS,grande,cluster5
+irrigacao,?,?,CO,GO,grande,cluster5
+irrigacao,?,?,CO,MT,grande,cluster5
+irrigacao,?,?,CO,MS,grande,cluster5
+irrigacao,?,?,CO,MT,grande,cluster5
+'plantio direto',soja,?,CO,MS,grande,cluster5
+irrigacao,?,?,CO,MS,grande,cluster5
+irrigacao,?,?,CO,MS,grande,cluster5
+'sistema convencional',arroz,?,CO,GO,grande,cluster5
+irrigacao,banana,?,CO,MT,grande,cluster5
+'agricultura de precisao',?,?,CO,MT,grande,cluster5
+irrigacao,banana,?,CO,MT,grande,cluster5
+irrigacao,?,?,CO,DF,grande,cluster5
+irrigacao,?,?,CO,MT,grande,cluster5
+'plantio direto',milho,latossolo,CO,MT,grande,cluster5
+irrigacao,?,?,CO,GO,grande,cluster5
+irrigacao,?,?,CO,DF,grande,cluster5
+adubacao,mandioca,?,CO,GO,grande,cluster5
+'agricultura de precisao',?,?,CO,MT,grande,cluster5
+irrigacao,?,?,CO,MT,grande,cluster5
+irrigacao,banana,?,CO,MT,grande,cluster5
+irrigacao,arroz,?,CO,MS,grande,cluster5
+adubacao,?,?,CO,DF,grande,cluster5
+irrigacao,?,?,CO,MS,grande,cluster5
+'pivo central',?,?,CO,GO,grande,cluster5
+adubacao,?,?,CO,DF,grande,cluster5
+'manejo do ambiente',?,?,CO,MS,grande,cluster5
+adubacao,mandioca,?,CO,GO,grande,cluster5
+manejo,soja,?,CO,MS,grande,cluster5
+'sistema convencional',arroz,?,CO,GO,grande,cluster5
+irrigacao,?,?,CO,GO,grande,cluster5
+irrigacao,?,?,CO,GO,grande,cluster5
+irrigacao,?,?,CO,MS,grande,cluster5
+irrigacao,?,?,CO,MT,grande,cluster5
+irrigacao,trigo,?,CO,DF,grande,cluster5
+irrigacao,?,?,CO,GO,grande,cluster5
+irrigacao,?,?,CO,DF,grande,cluster5
+irrigacao,?,?,CO,GO,grande,cluster5
+irrigacao,?,?,CO,MS,grande,cluster5
+irrigacao,?,?,CO,MT,grande,cluster5
+irrigacao,?,?,CO,MT,grande,cluster5
+manejo,?,latossolo,CO,GO,grande,cluster5
+irrigacao,?,?,CO,MS,grande,cluster5
+'plantio direto',?,?,CO,MT,grande,cluster5
+manejo,?,latossolo,CO,MT,grande,cluster5
+manejo,?,?,CO,MT,grande,cluster5
+manejo,arroz,?,CO,GO,grande,cluster5
+irrigacao,?,?,CO,MT,grande,cluster5
+manejo,?,latossolo,CO,GO,grande,cluster5
+irrigacao,banana,?,CO,MT,grande,cluster5
+irrigacao,?,?,CO,GO,grande,cluster5
+irrigacao,?,?,CO,MS,grande,cluster5
+irrigacao,?,?,CO,DF,grande,cluster5
+irrigacao,?,?,CO,MS,grande,cluster5
+irrigacao,?,?,CO,MS,grande,cluster5
+irrigacao,banana,?,CO,MT,grande,cluster5
+irrigacao,?,?,CO,MT,grande,cluster5
+irrigacao,?,?,CO,MS,grande,cluster5
+irrigacao,?,?,CO,GO,grande,cluster5
+irrigacao,?,?,CO,GO,grande,cluster5
+irrigacao,?,?,CO,GO,grande,cluster5
+irrigacao,?,?,CO,MT,grande,cluster5
+irrigacao,?,?,CO,MS,grande,cluster5
+irrigacao,banana,?,CO,MT,grande,cluster5
+irrigacao,?,?,CO,MT,grande,cluster5
+irrigacao,arroz,?,CO,MS,grande,cluster5
+irrigacao,?,?,CO,MS,grande,cluster5
+irrigacao,banana,?,CO,MT,grande,cluster5
+irrigacao,?,?,CO,GO,grande,cluster5
+irrigacao,?,?,CO,GO,grande,cluster5
+hibridacao,?,?,CO,MT,grande,cluster5
+irrigacao,?,?,CO,DF,grande,cluster5
+irrigacao,?,?,CO,MT,grande,cluster5
+irrigacao,?,?,CO,MT,grande,cluster5
+irrigacao,?,?,CO,MS,grande,cluster5
+irrigacao,?,?,CO,GO,grande,cluster5

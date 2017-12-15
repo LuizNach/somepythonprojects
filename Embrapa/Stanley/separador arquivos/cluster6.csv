@@ -1,0 +1,26 @@
+'manejo de poda',uva,?,N,TO,pequena,cluster6
+agrotoxico,uva,?,NE,MA,pequena,cluster6
+agrotoxico,uva,?,NE,PE,pequena,cluster6
+agrotoxico,uva,?,NE,MA,pequena,cluster6
+agrotoxico,manga,?,N,PA,pequena,cluster6
+agrotoxico,uva,?,SE,MG,pequena,cluster6
+agrotoxico,uva,?,N,PA,pequena,cluster6
+agrotoxico,manga,?,SE,SP,pequena,cluster6
+'manejo fitotecnico',nogueira,?,NE,BA,pequena,cluster6
+agrotoxico,uva,?,SE,SP,pequena,cluster6
+agrotoxico,manga,?,NE,MA,pequena,cluster6
+agrotoxico,manga,?,N,PA,pequena,cluster6
+agrotoxico,uva,?,N,TO,pequena,cluster6
+'manejo do solo',nogueira,argissolo,NE,AL,media,cluster6
+agrotoxico,uva,?,NE,PE,media,cluster6
+agrotoxico,uva,?,NE,MA,media,cluster6
+agrotoxico,uva,?,SE,MG,media,cluster6
+agrotoxico,uva,?,SE,SP,media,cluster6
+agrotoxico,uva,?,N,TO,media,cluster6
+agrotoxico,uva,?,N,PA,media,cluster6
+agrotoxico,uva,?,N,PA,grande,cluster6
+agrotoxico,uva,?,NE,PE,grande,cluster6
+agrotoxico,uva,?,SE,SP,grande,cluster6
+agrotoxico,uva,?,SE,SP,grande,cluster6
+agrotoxico,uva,?,N,TO,grande,cluster6
+agrotoxico,uva,?,N,TO,grande,cluster6

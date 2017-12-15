@@ -1,0 +1,919 @@
+Arquivo,solo,conceitos,cultura,culturaClasse1,animal,tecnologia,tecnologiaClasse,regiao,uf
+A_4901.2008061500000.txt,latossolo,trabalho,araca,?,?,drenagem,'engenharia agricola',N,PA
+A_4901.2008061500000.txt,latossolo,trabalho,araca,?,?,adubacao,solo,N,PA
+A_4901.2008061500000.txt,latossolo,trabalho,mamona,'culturas agricolas',?,drenagem,'engenharia agricola',N,PA
+A_4901.2008061500000.txt,latossolo,trabalho,mamona,'culturas agricolas',?,adubacao,solo,N,PA
+A_4901.2008061500000.txt,latossolo,trabalho,babosa,'plantas medicinais e aromaticas',?,drenagem,'engenharia agricola',N,PA
+A_4901.2008061500000.txt,latossolo,trabalho,babosa,'plantas medicinais e aromaticas',?,adubacao,solo,N,PA
+A_749.2010061500000.txt,?,'meio ambiente',?,?,?,manejo,solo,N,RO
+A_749.2010061500000.txt,?,'meio ambiente',?,?,?,agroecossistema,'sistemas de producao',N,RO
+A_749.2010061500000.txt,?,'meio ambiente',?,?,?,agroecossistema,'sistemas de producao',N,RO
+A_749.2010061500000.txt,?,'meio ambiente',?,?,?,agroecossistema,ecologia,N,RO
+A_749.2010061500000.txt,?,ciencia,?,?,?,'transicao agroecologica',ecologia,N,RO
+A_749.2010061500000.txt,?,ciencia,?,?,?,manejo,solo,N,RO
+A_749.2010061500000.txt,?,ciencia,?,?,?,agroecossistema,'sistemas de producao',N,RO
+A_749.2010061500000.txt,?,ciencia,?,?,?,agroecossistema,'sistemas de producao',N,RO
+A_749.2010061500000.txt,?,ciencia,?,?,?,agroecossistema,ecologia,N,RO
+A_749.2010061500000.txt,?,trabalho,?,?,?,'transicao agroecologica',ecologia,N,RO
+A_749.2010061500000.txt,?,trabalho,?,?,?,manejo,solo,N,RO
+A_749.2010061500000.txt,?,trabalho,?,?,?,agroecossistema,'sistemas de producao',N,RO
+A_749.2010061500000.txt,?,trabalho,?,?,?,agroecossistema,'sistemas de producao',N,RO
+A_749.2010061500000.txt,?,trabalho,?,?,?,agroecossistema,ecologia,N,RO
+A_749.2010061500000.txt,?,'conhecimentos tradicionais',?,?,?,'transicao agroecologica',ecologia,N,RO
+A_749.2010061500000.txt,?,'conhecimentos tradicionais',?,?,?,manejo,solo,N,RO
+A_749.2010061500000.txt,?,'conhecimentos tradicionais',?,?,?,agroecossistema,'sistemas de producao',N,RO
+A_749.2010061500000.txt,?,'conhecimentos tradicionais',?,?,?,agroecossistema,'sistemas de producao',N,RO
+A_5076.2009061500000.txt,latossolo,'agricultura familiar',mandioca,'culturas agricolas',?,organico,'sistemas de producao',N,PA
+A_5076.2009061500000.txt,latossolo,'agricultura familiar',mandioca,'culturas agricolas',?,manejo,solo,N,PA
+A_5076.2009061500000.txt,latossolo,'agricultura familiar',mandioca,'culturas agricolas',?,adubacao,solo,N,PA
+A_5076.2009061500000.txt,latossolo,'agricultura familiar',mandioca,'culturas agricolas',?,organicos,'sistemas de producao',N,PA
+A_5076.2009061500000.txt,latossolo,'agricultura familiar',mandioca,'culturas agricolas',?,organicos,'sistemas de producao',N,PA
+A_5076.2009061500000.txt,latossolo,trabalho,mandioca,'culturas agricolas',?,organico,'sistemas de producao',N,PA
+A_5076.2009061500000.txt,latossolo,trabalho,mandioca,'culturas agricolas',?,organico,'sistemas de producao',N,PA
+A_5076.2009061500000.txt,latossolo,trabalho,mandioca,'culturas agricolas',?,manejo,solo,N,PA
+A_5076.2009061500000.txt,latossolo,trabalho,mandioca,'culturas agricolas',?,adubacao,solo,N,PA
+A_5076.2009061500000.txt,latossolo,trabalho,mandioca,'culturas agricolas',?,organicos,'sistemas de producao',N,PA
+A_5076.2009061500000.txt,latossolo,trabalho,mandioca,'culturas agricolas',?,organicos,'sistemas de producao',N,PA
+A_2905.2008061500000.txt,?,'agricultura familiar',?,?,?,biomassa,ecologia,N,AC
+A_2905.2008061500000.txt,?,trabalho,?,?,?,biomassa,ecologia,N,AC
+A_4548.2005061500000.txt,latossolo,'agricultura familiar',pimenta,horticolas,?,apicultura,'sistemas de producao',N,PA
+A_4548.2005061500000.txt,latossolo,'agricultura familiar',mandioca,'culturas agricolas',?,apicultura,'sistemas de producao',N,PA
+A_4548.2005061500000.txt,latossolo,'agricultura familiar',mandioca,'culturas agricolas',?,apicultura,'sistemas de producao',N,PA
+A_4548.2005061500000.txt,latossolo,'agricultura familiar',arroz,'culturas agricolas',?,apicultura,'sistemas de producao',N,PA
+A_4548.2005061500000.txt,latossolo,'agricultura familiar',arroz,'culturas agricolas',?,apicultura,'sistemas de producao',N,PA
+A_4548.2005061500000.txt,latossolo,'agricultura familiar',milho,'culturas agricolas',?,apicultura,'sistemas de producao',N,PA
+A_4548.2005061500000.txt,latossolo,'agricultura familiar',milho,'culturas agricolas',?,apicultura,'sistemas de producao',N,PA
+A_4548.2005061500000.txt,latossolo,'agricultura familiar',pimentao,horticolas,?,apicultura,'sistemas de producao',N,PA
+A_4548.2005061500000.txt,latossolo,'agricultura familiar',pimentao,horticolas,?,apicultura,'sistemas de producao',N,PA
+A_4548.2005061500000.txt,latossolo,'agricultura familiar',pimentao,horticolas,?,apicultura,'sistemas de producao',N,PA
+A_4548.2005061500000.txt,latossolo,'agricultura familiar',pimentao,horticolas,?,apicultura,'sistemas de producao',N,PA
+A_4548.2005061500000.txt,latossolo,'agricultura familiar',feijao,'culturas agricolas',?,apicultura,'sistemas de producao',N,PA
+A_4548.2005061500000.txt,latossolo,'agricultura familiar',feijao,'culturas agricolas',?,apicultura,'sistemas de producao',N,PA
+A_4548.2005061500000.txt,latossolo,'agricultura familiar',maracuja,'culturas agricolas',?,apicultura,'sistemas de producao',N,PA
+A_4548.2005061500000.txt,latossolo,'agricultura familiar',maracuja,'culturas agricolas',?,apicultura,'sistemas de producao',N,PA
+A_4548.2005061500000.txt,latossolo,'agricultura familiar',algodao,'culturas agricolas',?,apicultura,'sistemas de producao',N,PA
+A_4548.2005061500000.txt,latossolo,'agricultura familiar',algodao,'culturas agricolas',?,apicultura,'sistemas de producao',N,PA
+A_4548.2005061500000.txt,latossolo,'agricultura familiar',laranja,'arboreas frutiferas',?,apicultura,'sistemas de producao',N,PA
+A_845.2004061500000.txt,neossolo,trabalho,palmeira,'arboreas madeira semente produtos',ovino,'ecologia vegetal',ecologia,N,PA
+A_845.2004061500000.txt,latossolo,trabalho,palmeira,'arboreas madeira semente produtos',suino,'ecologia vegetal',ecologia,N,PA
+A_845.2004061500000.txt,latossolo,trabalho,palmeira,'arboreas madeira semente produtos',ovino,'ecologia vegetal',ecologia,N,PA
+A_2999.2009061500000.txt,?,'agricultura familiar',nogueira,'arboreas madeira semente produtos',?,?,?,N,AM
+A_5874.2010061500000.txt,?,?,?,?,?,'sistemas silvipastoris','sistemas de producao',N,PA
+A_5874.2010061500000.txt,?,?,?,?,?,'sistemas silvipastoris','sistemas de producao',N,PA
+A_2703.2013061500000.txt,?,'agricultura familiar',?,?,?,?,?,N,PA
+A_2703.2013061500000.txt,?,trabalho,?,?,?,?,?,N,PA
+A_1431.2009061500000.txt,?,trabalho,feijao,'culturas agricolas',?,adubacao,solo,N,PA
+A_2566.2008061500000.txt,?,'agricultura familiar',cupuacu,'arboreas frutiferas',?,?,?,N,PA
+A_2566.2008061500000.txt,?,'agricultura familiar',banana,'culturas agricolas',?,?,?,N,PA
+A_2566.2008061500000.txt,?,trabalho,mandioca,'culturas agricolas',?,?,?,N,PA
+A_2566.2008061500000.txt,?,trabalho,cupuacu,'arboreas frutiferas',?,?,?,N,PA
+A_2566.2008061500000.txt,?,trabalho,banana,'culturas agricolas',?,?,?,N,PA
+A_4801.2009061500000.txt,luvissolo,'meio ambiente',uva,'arboreas frutiferas',ovino,drenagem,'engenharia agricola',N,PA
+A_4801.2009061500000.txt,luvissolo,'meio ambiente',uva,'arboreas frutiferas',ovino,manejo,solo,N,PA
+A_643.2004061500000.txt,?,trabalho,?,?,?,?,?,N,RO
+A_2411.2014061500000.txt,?,'meio ambiente',caju,'arboreas frutiferas',suino,organico,'sistemas de producao',N,PA
+A_2411.2014061500000.txt,?,'meio ambiente',caju,'arboreas frutiferas',suino,'manejo do solo',?,N,PA
+A_2411.2014061500000.txt,?,'meio ambiente',caju,'arboreas frutiferas',suino,'producao organica',solo,N,PA
+A_2411.2014061500000.txt,?,'meio ambiente',caju,'arboreas frutiferas',suino,'producao organica',planta,N,PA
+A_2411.2014061500000.txt,?,'meio ambiente',caju,'arboreas frutiferas',suino,'producao organica','sistemas de producao',N,PA
+A_2411.2014061500000.txt,?,'meio ambiente',caju,'arboreas frutiferas',suino,manejo,solo,N,PA
+A_2411.2014061500000.txt,?,'meio ambiente',caju,'arboreas frutiferas',suino,organicos,'sistemas de producao',N,PA
+A_2411.2014061500000.txt,?,'meio ambiente',caju,'arboreas frutiferas',suino,organicos,'sistemas de producao',N,PA
+A_2411.2014061500000.txt,?,'meio ambiente',caju,'arboreas frutiferas',aves,organico,'sistemas de producao',N,PA
+A_2411.2014061500000.txt,?,'meio ambiente',caju,'arboreas frutiferas',aves,organico,'sistemas de producao',N,PA
+A_2411.2014061500000.txt,?,'meio ambiente',caju,'arboreas frutiferas',aves,'manejo do solo',?,N,PA
+A_2411.2014061500000.txt,?,'meio ambiente',caju,'arboreas frutiferas',aves,'producao organica',solo,N,PA
+A_2411.2014061500000.txt,?,'meio ambiente',caju,'arboreas frutiferas',aves,'producao organica',planta,N,PA
+A_2411.2014061500000.txt,?,'meio ambiente',caju,'arboreas frutiferas',aves,'producao organica','sistemas de producao',N,PA
+A_2411.2014061500000.txt,?,'meio ambiente',caju,'arboreas frutiferas',aves,manejo,solo,N,PA
+A_2411.2014061500000.txt,?,'meio ambiente',caju,'arboreas frutiferas',aves,organicos,'sistemas de producao',N,PA
+A_2411.2014061500000.txt,?,'meio ambiente',caju,'arboreas frutiferas',aves,organicos,'sistemas de producao',N,PA
+A_2411.2014061500000.txt,?,'meio ambiente',araticum,'arboreas madeira semente produtos',suino,organico,'sistemas de producao',N,PA
+A_1327.2011061500000.txt,neossolo,trabalho,crotalaria,'adubos verdes',aves,organico,'sistemas de producao',N,AM
+A_1327.2011061500000.txt,neossolo,trabalho,crotalaria,'adubos verdes',aves,'adubacao organica',solo,N,AM
+A_1327.2011061500000.txt,neossolo,trabalho,crotalaria,'adubos verdes',aves,'adubacao organica',planta,N,AM
+A_1327.2011061500000.txt,neossolo,trabalho,crotalaria,'adubos verdes',aves,manejo,solo,N,AM
+A_1327.2011061500000.txt,neossolo,trabalho,crotalaria,'adubos verdes',aves,'manejo ecologico','sistemas de producao',N,AM
+A_1327.2011061500000.txt,neossolo,trabalho,crotalaria,'adubos verdes',aves,'manejo ecologico',ecologia,N,AM
+A_1327.2011061500000.txt,neossolo,trabalho,crotalaria,'adubos verdes',aves,adubacao,solo,N,AM
+A_1327.2011061500000.txt,neossolo,trabalho,crotalaria,'adubos verdes',aves,organicos,'sistemas de producao',N,AM
+A_1327.2011061500000.txt,neossolo,trabalho,crotalaria,'adubos verdes',aves,organicos,'sistemas de producao',N,AM
+A_1327.2011061500000.txt,neossolo,trabalho,crotalaria,'adubos verdes',aves,agroecossistema,'sistemas de producao',N,AM
+A_1327.2011061500000.txt,neossolo,trabalho,crotalaria,'adubos verdes',aves,agroecossistema,'sistemas de producao',N,AM
+A_1327.2011061500000.txt,neossolo,trabalho,crotalaria,'adubos verdes',aves,agroecossistema,ecologia,N,AM
+A_1327.2011061500000.txt,neossolo,trabalho,mandioca,'culturas agricolas',aves,organico,'sistemas de producao',N,AM
+A_1327.2011061500000.txt,neossolo,trabalho,mandioca,'culturas agricolas',aves,organico,'sistemas de producao',N,AM
+A_1327.2011061500000.txt,neossolo,trabalho,mandioca,'culturas agricolas',aves,'adubacao organica',solo,N,AM
+A_1327.2011061500000.txt,neossolo,trabalho,mandioca,'culturas agricolas',aves,'adubacao organica',planta,N,AM
+A_1327.2011061500000.txt,neossolo,trabalho,mandioca,'culturas agricolas',aves,manejo,solo,N,AM
+A_1327.2011061500000.txt,neossolo,trabalho,mandioca,'culturas agricolas',aves,'manejo ecologico','sistemas de producao',N,AM
+A_5811.2010061500000.txt,?,'meio ambiente',leucena,'arboreas adubacaoverde e massa verde',?,?,?,N,TO
+A_5811.2010061500000.txt,?,'meio ambiente',leucena,'arboreas adubacaoverde e massa verde',?,?,?,N,PA
+A_5811.2010061500000.txt,?,trabalho,leucena,'arboreas adubacaoverde e massa verde',?,?,?,N,TO
+A_5811.2010061500000.txt,?,trabalho,leucena,'arboreas adubacaoverde e massa verde',?,?,?,N,PA
+A_581.2009061500000.txt,latossolo,trabalho,mandioca,'culturas agricolas',?,?,?,N,PA
+A_3813.2010061500000.txt,?,'agricultura familiar',?,?,?,'sistemas silvipastoris','sistemas de producao',N,RO
+A_3813.2010061500000.txt,?,'agricultura familiar',?,?,?,'sistemas silvipastoris','sistemas de producao',N,RO
+A_2029.2015061500000.txt,?,trabalho,feijao,'culturas agricolas',?,?,?,N,AC
+A_4670.2010061500000.txt,?,'saber local',mandioca,'culturas agricolas',peixe,psicultura,'sistemas de producao',N,RO
+A_4670.2010061500000.txt,?,'saber local',mandioca,'culturas agricolas',peixe,psicultura,'sistemas de producao',N,RO
+A_4670.2010061500000.txt,?,'saber local',jatoba,'arboreas madeira semente produtos',peixe,manejo,solo,N,RO
+A_4670.2010061500000.txt,?,'saber local',jatoba,'arboreas madeira semente produtos',peixe,psicultura,'sistemas de producao',N,RO
+A_4670.2010061500000.txt,?,'saber local',jatoba,'arboreas madeira semente produtos',peixe,psicultura,'sistemas de producao',N,RO
+A_4670.2010061500000.txt,?,'meio ambiente',mandioca,'culturas agricolas',peixe,manejo,solo,N,RO
+A_4670.2010061500000.txt,?,'meio ambiente',mandioca,'culturas agricolas',peixe,psicultura,'sistemas de producao',N,RO
+A_4670.2010061500000.txt,?,'meio ambiente',mandioca,'culturas agricolas',peixe,psicultura,'sistemas de producao',N,RO
+A_4670.2010061500000.txt,?,'meio ambiente',jatoba,'arboreas madeira semente produtos',peixe,manejo,solo,N,RO
+A_4670.2010061500000.txt,?,'meio ambiente',jatoba,'arboreas madeira semente produtos',peixe,psicultura,'sistemas de producao',N,RO
+A_4670.2010061500000.txt,?,'meio ambiente',jatoba,'arboreas madeira semente produtos',peixe,psicultura,'sistemas de producao',N,RO
+A_4670.2010061500000.txt,?,'desenvolvimento local',mandioca,'culturas agricolas',peixe,manejo,solo,N,RO
+A_4670.2010061500000.txt,?,'desenvolvimento local',mandioca,'culturas agricolas',peixe,psicultura,'sistemas de producao',N,RO
+A_4670.2010061500000.txt,?,'desenvolvimento local',mandioca,'culturas agricolas',peixe,psicultura,'sistemas de producao',N,RO
+A_4670.2010061500000.txt,?,'desenvolvimento local',jatoba,'arboreas madeira semente produtos',peixe,manejo,solo,N,RO
+A_4670.2010061500000.txt,?,'desenvolvimento local',jatoba,'arboreas madeira semente produtos',peixe,psicultura,'sistemas de producao',N,RO
+A_4670.2010061500000.txt,?,'desenvolvimento local',jatoba,'arboreas madeira semente produtos',peixe,psicultura,'sistemas de producao',N,RO
+A_4670.2010061500000.txt,?,'agricultura familiar',mandioca,'culturas agricolas',peixe,manejo,solo,N,RO
+A_6025.2009061500000.txt,?,?,nogueira,'arboreas madeira semente produtos',?,?,?,N,PA
+A_4946.2011061500000.txt,latossolo,'agricultura familiar',mandioca,'culturas agricolas',?,manejo,solo,N,PA
+A_4946.2011061500000.txt,latossolo,trabalho,mandioca,'culturas agricolas',?,manejo,solo,N,PA
+A_5198.2007061500000.txt,?,'agricultura familiar',seringueira,'arboreas madeira semente produtos',?,safs,'sistemas de producao',N,RO
+A_5709.2014061500000.txt,?,'agricultura familiar',seringueira,'arboreas madeira semente produtos',?,?,?,N,AC
+A_5709.2014061500000.txt,?,trabalho,mandioca,'culturas agricolas',?,?,?,N,AC
+A_5709.2014061500000.txt,?,trabalho,seringueira,'arboreas madeira semente produtos',?,?,?,N,AC
+A_5260.2006061500000.txt,?,trabalho,?,?,?,?,?,N,TO
+A_5260.2006061500000.txt,?,trabalho,?,?,?,?,?,N,PA
+A_5409.2014061500000.txt,?,trabalho,mandioca,'culturas agricolas',?,?,?,N,PA
+A_5409.2014061500000.txt,?,trabalho,abacaxi,'culturas agricolas',?,?,?,N,PA
+A_6282.2013061500000.txt,?,'agricultura familiar',abobora,'culturas agricolas',?,?,?,N,PA
+A_6282.2013061500000.txt,?,trabalho,abobora,'culturas agricolas',?,?,?,N,PA
+A_3917.2014061500000.txt,?,'agricultura familiar',?,?,?,?,?,N,RO
+A_3917.2014061500000.txt,?,'agricultura familiar',?,?,?,?,?,N,AC
+A_3917.2014061500000.txt,?,'agricultura familiar',?,?,?,?,?,N,AM
+A_4628.2008061500000.txt,?,'agricultura familiar',gergelim,'culturas agricolas',?,organico,'sistemas de producao',N,TO
+A_4628.2008061500000.txt,?,'agricultura familiar',gergelim,'culturas agricolas',?,organico,'sistemas de producao',N,TO
+A_4628.2008061500000.txt,?,'agricultura familiar',gergelim,'culturas agricolas',?,organico,'sistemas de producao',N,PA
+A_4628.2008061500000.txt,?,'agricultura familiar',gergelim,'culturas agricolas',?,organico,'sistemas de producao',N,PA
+A_347.2009061500000.txt,?,'desenvolvimento rural sustentavel',?,?,?,manejo,solo,N,AM
+A_347.2009061500000.txt,?,'desenvolvimento rural sustentavel',?,?,?,agroecossistema,'sistemas de producao',N,AM
+A_347.2009061500000.txt,?,'desenvolvimento rural sustentavel',?,?,?,agroecossistema,'sistemas de producao',N,AM
+A_347.2009061500000.txt,?,'desenvolvimento rural sustentavel',?,?,?,agroecossistema,ecologia,N,AM
+A_347.2009061500000.txt,?,trabalho,?,?,?,'transicao agroecologica',ecologia,N,AM
+A_347.2009061500000.txt,?,trabalho,?,?,?,manejo,solo,N,AM
+A_347.2009061500000.txt,?,trabalho,?,?,?,agroecossistema,'sistemas de producao',N,AM
+A_347.2009061500000.txt,?,trabalho,?,?,?,agroecossistema,'sistemas de producao',N,AM
+A_347.2009061500000.txt,?,trabalho,?,?,?,agroecossistema,ecologia,N,AM
+A_2234.2002061500000.txt,?,trabalho,coentro,horticolas,?,agroextrativismo,'sistemas de producao',N,AM
+A_4918.2009061500000.txt,?,'meio ambiente',dende,?,gado,'cobertura vegetal',ecologia,N,PA
+A_4918.2009061500000.txt,?,'meio ambiente',dende,?,gado,biomassa,ecologia,N,PA
+A_4918.2009061500000.txt,?,'meio ambiente',amendoim,?,gado,manejo,solo,N,PA
+A_4918.2009061500000.txt,?,'meio ambiente',amendoim,?,gado,'cobertura vegetal',ecologia,N,PA
+A_4918.2009061500000.txt,?,'meio ambiente',amendoim,?,gado,biomassa,ecologia,N,PA
+A_4918.2009061500000.txt,?,'meio ambiente',mamona,'culturas agricolas',gado,manejo,solo,N,PA
+A_4918.2009061500000.txt,?,'meio ambiente',mamona,'culturas agricolas',gado,'cobertura vegetal',ecologia,N,PA
+A_4918.2009061500000.txt,?,'meio ambiente',mamona,'culturas agricolas',gado,biomassa,ecologia,N,PA
+A_4918.2009061500000.txt,?,'meio ambiente',girassol,'culturas agricolas',gado,manejo,solo,N,PA
+A_4918.2009061500000.txt,?,'meio ambiente',girassol,'culturas agricolas',gado,'cobertura vegetal',ecologia,N,PA
+A_4918.2009061500000.txt,?,'meio ambiente',girassol,'culturas agricolas',gado,biomassa,ecologia,N,PA
+A_4918.2009061500000.txt,?,'meio ambiente','amendoim forrageiro','adubos verdes',gado,manejo,solo,N,PA
+A_4918.2009061500000.txt,?,'meio ambiente','amendoim forrageiro','adubos verdes',gado,'cobertura vegetal',ecologia,N,PA
+A_4918.2009061500000.txt,?,'meio ambiente','amendoim forrageiro','adubos verdes',gado,biomassa,ecologia,N,PA
+A_4918.2009061500000.txt,?,'meio ambiente',soja,'culturas agricolas',gado,manejo,solo,N,PA
+A_4918.2009061500000.txt,?,'meio ambiente',soja,'culturas agricolas',gado,'cobertura vegetal',ecologia,N,PA
+A_4918.2009061500000.txt,?,'meio ambiente',soja,'culturas agricolas',gado,biomassa,ecologia,N,PA
+A_4918.2009061500000.txt,?,'agricultura familiar',dende,?,gado,manejo,solo,N,PA
+A_1507.1999061500000.txt,?,trabalho,?,?,?,?,?,N,AC
+A_2195.2012061500000.txt,latossolo,trabalho,mandioca,'culturas agricolas',?,adubacao,solo,N,PA
+A_2914.2010061500000.txt,?,trabalho,babosa,'plantas medicinais e aromaticas',?,geoprocessamento,geotecnologias,N,PA
+A_4466.2010061500000.txt,?,'meio ambiente',batata,horticolas,gado,organico,'sistemas de producao',N,RO
+A_4466.2010061500000.txt,?,'meio ambiente',batata,horticolas,gado,'manejo do solo',?,N,RO
+A_4466.2010061500000.txt,?,'meio ambiente',batata,horticolas,gado,'adubacao organica',solo,N,RO
+A_4466.2010061500000.txt,?,'meio ambiente',batata,horticolas,gado,'adubacao organica',planta,N,RO
+A_4466.2010061500000.txt,?,'meio ambiente',batata,horticolas,gado,manejo,solo,N,RO
+A_4466.2010061500000.txt,?,'meio ambiente',batata,horticolas,gado,adubacao,solo,N,RO
+A_4466.2010061500000.txt,?,'meio ambiente',batata,horticolas,gado,'sementes crioulas',solo,N,RO
+A_4466.2010061500000.txt,?,'meio ambiente',batata,horticolas,gado,safs,'sistemas de producao',N,RO
+A_4466.2010061500000.txt,?,'meio ambiente',batata,horticolas,gado,safs,'sistemas de producao',N,RO
+A_4466.2010061500000.txt,?,'meio ambiente',batata,horticolas,gado,organicos,'sistemas de producao',N,RO
+A_4466.2010061500000.txt,?,'meio ambiente',batata,horticolas,gado,organicos,'sistemas de producao',N,RO
+A_4466.2010061500000.txt,?,'meio ambiente',batata,horticolas,gado,agroecossistema,'sistemas de producao',N,RO
+A_4466.2010061500000.txt,?,'meio ambiente',batata,horticolas,gado,agroecossistema,'sistemas de producao',N,RO
+A_4466.2010061500000.txt,?,'meio ambiente',batata,horticolas,gado,agroecossistema,ecologia,N,RO
+A_4466.2010061500000.txt,?,'meio ambiente',batata,horticolas,suino,organico,'sistemas de producao',N,RO
+A_4466.2010061500000.txt,?,'meio ambiente',batata,horticolas,suino,organico,'sistemas de producao',N,RO
+A_4466.2010061500000.txt,?,'meio ambiente',batata,horticolas,suino,'manejo do solo',?,N,RO
+A_4466.2010061500000.txt,?,'meio ambiente',batata,horticolas,suino,'adubacao organica',solo,N,RO
+A_4684.2007061500000.txt,?,'agricultura familiar',cupuacu,'arboreas frutiferas',?,drenagem,'engenharia agricola',N,PA
+A_4684.2007061500000.txt,?,'agricultura familiar',banana,'culturas agricolas',?,drenagem,'engenharia agricola',N,PA
+A_4684.2007061500000.txt,?,trabalho,mandioca,'culturas agricolas',?,drenagem,'engenharia agricola',N,PA
+A_4684.2007061500000.txt,?,trabalho,cupuacu,'arboreas frutiferas',?,drenagem,'engenharia agricola',N,PA
+A_4684.2007061500000.txt,?,trabalho,banana,'culturas agricolas',?,drenagem,'engenharia agricola',N,PA
+A_1732.2014061500000.txt,?,?,?,?,?,agroecossistema,'sistemas de producao',N,AM
+A_1732.2014061500000.txt,?,?,?,?,?,agroecossistema,ecologia,N,AM
+A_4426.1984061500000.txt,?,?,soja,'culturas agricolas',?,?,?,N,AP
+A_2226.2015061500000.txt,?,'agricultura familiar',mandioca,'culturas agricolas',?,manejo,solo,N,AC
+A_2226.2015061500000.txt,?,'agricultura familiar',mandioca,'culturas agricolas',?,adubacao,solo,N,AC
+A_2226.2015061500000.txt,?,'agricultura familiar',arroz,'culturas agricolas',?,'manejo do solo',?,N,AC
+A_2226.2015061500000.txt,?,'agricultura familiar',arroz,'culturas agricolas',?,manejo,solo,N,AC
+A_2226.2015061500000.txt,?,'agricultura familiar',arroz,'culturas agricolas',?,adubacao,solo,N,AC
+A_2226.2015061500000.txt,?,'agricultura familiar',milho,'culturas agricolas',?,'manejo do solo',?,N,AC
+A_2226.2015061500000.txt,?,'agricultura familiar',milho,'culturas agricolas',?,manejo,solo,N,AC
+A_2226.2015061500000.txt,?,'agricultura familiar',milho,'culturas agricolas',?,adubacao,solo,N,AC
+A_2226.2015061500000.txt,?,'agricultura familiar',feijao,'culturas agricolas',?,'manejo do solo',?,N,AC
+A_2226.2015061500000.txt,?,'agricultura familiar',feijao,'culturas agricolas',?,manejo,solo,N,AC
+A_2226.2015061500000.txt,?,'agricultura familiar',feijao,'culturas agricolas',?,adubacao,solo,N,AC
+A_3161.2014061500000.txt,?,trabalho,cafe,?,?,?,?,N,PA
+A_4432.1981061500000.txt,?,?,feijao,'culturas agricolas',?,?,?,N,AC
+A_4432.1981061500000.txt,?,?,cafe,?,?,?,?,N,AC
+A_4307.2015061500000.txt,?,trabalho,?,?,?,?,?,N,PA
+A_4307.2015061500000.txt,?,trabalho,?,?,?,?,?,N,AM
+A_2232.2006061500000.txt,latossolo,'agricultura familiar',?,?,?,organico,'sistemas de producao',N,PA
+A_2232.2006061500000.txt,latossolo,'agricultura familiar',?,?,?,'manejo do solo',?,N,PA
+A_2232.2006061500000.txt,latossolo,'agricultura familiar',?,?,?,manejo,solo,N,PA
+A_2232.2006061500000.txt,latossolo,'agricultura familiar',?,?,?,'implemento agricola','engenharia agricola',N,PA
+A_2232.2006061500000.txt,latossolo,'agricultura familiar',?,?,?,'implemento agricola','engenharia agricola',N,PA
+A_2232.2006061500000.txt,latossolo,'agricultura familiar',?,?,?,organicos,'sistemas de producao',N,PA
+A_2232.2006061500000.txt,latossolo,'agricultura familiar',?,?,?,organicos,'sistemas de producao',N,PA
+A_2232.2006061500000.txt,latossolo,'agricultura familiar',?,?,?,agroecossistema,'sistemas de producao',N,PA
+A_2232.2006061500000.txt,latossolo,'agricultura familiar',?,?,?,agroecossistema,'sistemas de producao',N,PA
+A_2232.2006061500000.txt,latossolo,'agricultura familiar',?,?,?,agroecossistema,ecologia,N,PA
+A_2232.2006061500000.txt,latossolo,'agricultura familiar',?,?,?,biomassa,ecologia,N,PA
+A_2232.2006061500000.txt,latossolo,trabalho,?,?,?,organico,'sistemas de producao',N,PA
+A_2232.2006061500000.txt,latossolo,trabalho,?,?,?,organico,'sistemas de producao',N,PA
+A_2232.2006061500000.txt,latossolo,trabalho,?,?,?,'manejo do solo',?,N,PA
+A_2232.2006061500000.txt,latossolo,trabalho,?,?,?,manejo,solo,N,PA
+A_2232.2006061500000.txt,latossolo,trabalho,?,?,?,'implemento agricola','engenharia agricola',N,PA
+A_2232.2006061500000.txt,latossolo,trabalho,?,?,?,'implemento agricola','engenharia agricola',N,PA
+A_2232.2006061500000.txt,latossolo,trabalho,?,?,?,organicos,'sistemas de producao',N,PA
+A_3110.2008061500000.txt,?,trabalho,seringueira,'arboreas madeira semente produtos',suino,agroecossistema,'sistemas de producao',N,PA
+A_3110.2008061500000.txt,?,trabalho,seringueira,'arboreas madeira semente produtos',suino,agroecossistema,ecologia,N,PA
+A_3110.2008061500000.txt,?,trabalho,eucalipto,'arboreas madeira semente produtos',suino,agroecossistema,'sistemas de producao',N,PA
+A_3110.2008061500000.txt,?,trabalho,eucalipto,'arboreas madeira semente produtos',suino,agroecossistema,'sistemas de producao',N,PA
+A_3110.2008061500000.txt,?,trabalho,eucalipto,'arboreas madeira semente produtos',suino,agroecossistema,ecologia,N,PA
+A_3110.2008061500000.txt,?,trabalho,pinus,'arboreas madeira semente produtos',suino,agroecossistema,'sistemas de producao',N,PA
+A_3110.2008061500000.txt,?,trabalho,pinus,'arboreas madeira semente produtos',suino,agroecossistema,'sistemas de producao',N,PA
+A_3110.2008061500000.txt,?,trabalho,pinus,'arboreas madeira semente produtos',suino,agroecossistema,ecologia,N,PA
+A_5070.2007061500000.txt,?,'meio ambiente',araca,?,?,organico,'sistemas de producao',N,TO
+A_5070.2007061500000.txt,?,'meio ambiente',araca,?,?,organico,'sistemas de producao',N,TO
+A_5070.2007061500000.txt,?,'meio ambiente',araca,?,?,organico,'sistemas de producao',N,PA
+A_5070.2007061500000.txt,?,'meio ambiente',araca,?,?,organico,'sistemas de producao',N,PA
+A_4398.2006061500000.txt,?,'saber local',caxeta,'arboreas madeira semente produtos',?,'producao organica',planta,N,RO
+A_4398.2006061500000.txt,?,'saber local',caxeta,'arboreas madeira semente produtos',?,'producao organica','sistemas de producao',N,RO
+A_4398.2006061500000.txt,?,'saber local',caxeta,'arboreas madeira semente produtos',?,manejo,solo,N,RO
+A_4398.2006061500000.txt,?,'saber local',caxeta,'arboreas madeira semente produtos',?,safs,'sistemas de producao',N,RO
+A_4398.2006061500000.txt,?,'saber local',caxeta,'arboreas madeira semente produtos',?,safs,'sistemas de producao',N,RO
+A_4398.2006061500000.txt,?,'saber local',arroz,'culturas agricolas',?,'producao organica',solo,N,RO
+A_4398.2006061500000.txt,?,'saber local',arroz,'culturas agricolas',?,'producao organica',planta,N,RO
+A_4398.2006061500000.txt,?,'saber local',arroz,'culturas agricolas',?,'producao organica','sistemas de producao',N,RO
+A_4398.2006061500000.txt,?,'saber local',arroz,'culturas agricolas',?,manejo,solo,N,RO
+A_4398.2006061500000.txt,?,'saber local',arroz,'culturas agricolas',?,safs,'sistemas de producao',N,RO
+A_4398.2006061500000.txt,?,'saber local',arroz,'culturas agricolas',?,safs,'sistemas de producao',N,RO
+A_4398.2006061500000.txt,?,'saber local',milho,'culturas agricolas',?,'producao organica',solo,N,RO
+A_4398.2006061500000.txt,?,'saber local',milho,'culturas agricolas',?,'producao organica',planta,N,RO
+A_4398.2006061500000.txt,?,'saber local',milho,'culturas agricolas',?,'producao organica','sistemas de producao',N,RO
+A_4398.2006061500000.txt,?,'saber local',milho,'culturas agricolas',?,manejo,solo,N,RO
+A_4398.2006061500000.txt,?,'saber local',milho,'culturas agricolas',?,safs,'sistemas de producao',N,RO
+A_4398.2006061500000.txt,?,'saber local',milho,'culturas agricolas',?,safs,'sistemas de producao',N,RO
+A_4398.2006061500000.txt,?,'saber local',cedro,'arboreas madeira semente produtos',?,'producao organica',solo,N,RO
+A_1961.2011061500000.txt,?,trabalho,arroz,'culturas agricolas',?,adubacao,solo,N,PA
+A_1247.2014061500000.txt,?,'agricultura familiar',arroz,'culturas agricolas',?,?,?,N,AC
+A_1247.2014061500000.txt,?,'agricultura familiar',milho,'culturas agricolas',?,?,?,N,AC
+A_1247.2014061500000.txt,?,'agricultura familiar',feijao,'culturas agricolas',?,?,?,N,AC
+A_2035.2013061500000.txt,?,trabalho,?,?,?,?,?,N,AC
+A_3849.2009061500000.txt,nitossolo,trabalho,?,?,?,?,?,N,RR
+A_5069.2011061500000.txt,?,'meio ambiente',soja,'culturas agricolas',?,?,?,N,PA
+A_5050.2012061500000.txt,?,'agricultura familiar',?,?,?,?,?,N,PA
+A_5050.2012061500000.txt,?,trabalho,?,?,?,?,?,N,PA
+A_1396.2003061500000.txt,?,'agricultura familiar',maracuja,'culturas agricolas',?,?,?,N,TO
+A_1396.2003061500000.txt,?,'agricultura familiar',maracuja,'culturas agricolas',?,?,?,N,PA
+A_1396.2003061500000.txt,?,'agricultura familiar',goiaba,'arboreas frutiferas',?,?,?,N,TO
+A_1396.2003061500000.txt,?,'agricultura familiar',goiaba,'arboreas frutiferas',?,?,?,N,PA
+A_3989.2008061500000.txt,?,?,?,?,peixe,?,?,N,PA
+A_2579.1992061500000.txt,?,?,batata,horticolas,?,?,?,N,RR
+A_2579.1992061500000.txt,?,?,mandioca,'culturas agricolas',?,?,?,N,RR
+A_2579.1992061500000.txt,?,?,cenoura,horticolas,?,?,?,N,RR
+A_2579.1992061500000.txt,?,?,arroz,'culturas agricolas',?,?,?,N,RR
+A_2579.1992061500000.txt,?,?,milho,'culturas agricolas',?,?,?,N,RR
+A_2579.1992061500000.txt,?,?,couve,horticolas,?,?,?,N,RR
+A_2579.1992061500000.txt,?,?,abacaxi,'culturas agricolas',?,?,?,N,RR
+A_2579.1992061500000.txt,?,?,repolho,horticolas,?,?,?,N,RR
+A_2579.1992061500000.txt,?,?,feijao,'culturas agricolas',?,?,?,N,RR
+A_2579.1992061500000.txt,?,?,maracuja,'culturas agricolas',?,?,?,N,RR
+A_2579.1992061500000.txt,?,?,coentro,horticolas,?,?,?,N,RR
+A_2579.1992061500000.txt,?,?,banana,'culturas agricolas',?,?,?,N,RR
+A_2579.1992061500000.txt,?,?,sorgo,'culturas agricolas',?,?,?,N,RR
+A_2579.1992061500000.txt,?,?,laranja,'arboreas frutiferas',?,?,?,N,RR
+A_2579.1992061500000.txt,?,?,soja,'culturas agricolas',?,?,?,N,RR
+A_2579.1992061500000.txt,?,?,tomate,horticolas,?,?,?,N,RR
+A_2579.1992061500000.txt,?,?,cebola,horticolas,?,?,?,N,RR
+A_751.2010061500000.txt,?,'meio ambiente',caja,?,gado,organico,'sistemas de producao',N,RO
+A_751.2010061500000.txt,?,'meio ambiente',caja,?,gado,'transicao agroecologica',ecologia,N,RO
+A_751.2010061500000.txt,?,'meio ambiente',caja,?,gado,adubacao,solo,N,RO
+A_751.2010061500000.txt,?,'meio ambiente',caja,?,gado,psicultura,'sistemas de producao',N,RO
+A_751.2010061500000.txt,?,'meio ambiente',caja,?,gado,psicultura,'sistemas de producao',N,RO
+A_751.2010061500000.txt,?,'meio ambiente',caja,?,gado,organicos,'sistemas de producao',N,RO
+A_751.2010061500000.txt,?,'meio ambiente',caja,?,gado,organicos,'sistemas de producao',N,RO
+A_751.2010061500000.txt,?,'meio ambiente',caja,?,gado,agroecossistema,'sistemas de producao',N,RO
+A_751.2010061500000.txt,?,'meio ambiente',caja,?,gado,agroecossistema,'sistemas de producao',N,RO
+A_751.2010061500000.txt,?,'meio ambiente',caja,?,gado,agroecossistema,ecologia,N,RO
+A_751.2010061500000.txt,?,'meio ambiente',caja,?,suino,organico,'sistemas de producao',N,RO
+A_751.2010061500000.txt,?,'meio ambiente',caja,?,suino,organico,'sistemas de producao',N,RO
+A_751.2010061500000.txt,?,'meio ambiente',caja,?,suino,'transicao agroecologica',ecologia,N,RO
+A_751.2010061500000.txt,?,'meio ambiente',caja,?,suino,adubacao,solo,N,RO
+A_751.2010061500000.txt,?,'meio ambiente',caja,?,suino,psicultura,'sistemas de producao',N,RO
+A_751.2010061500000.txt,?,'meio ambiente',caja,?,suino,psicultura,'sistemas de producao',N,RO
+A_751.2010061500000.txt,?,'meio ambiente',caja,?,suino,organicos,'sistemas de producao',N,RO
+A_751.2010061500000.txt,?,'meio ambiente',caja,?,suino,organicos,'sistemas de producao',N,RO
+A_2259.2000061500000.txt,?,'meio ambiente',pimenta,horticolas,?,'cobertura vegetal',ecologia,N,PA
+A_2259.2000061500000.txt,?,'meio ambiente',pimenta,horticolas,?,'sistemas ag?arios','sistemas de producao',N,PA
+A_2259.2000061500000.txt,?,'meio ambiente',mandioca,'culturas agricolas',?,manejo,solo,N,PA
+A_2259.2000061500000.txt,?,'meio ambiente',mandioca,'culturas agricolas',?,'cobertura vegetal',ecologia,N,PA
+A_2259.2000061500000.txt,?,'meio ambiente',mandioca,'culturas agricolas',?,'sistemas ag?arios','sistemas de producao',N,PA
+A_2259.2000061500000.txt,?,'meio ambiente',arroz,'culturas agricolas',?,manejo,solo,N,PA
+A_2259.2000061500000.txt,?,'meio ambiente',arroz,'culturas agricolas',?,'cobertura vegetal',ecologia,N,PA
+A_2259.2000061500000.txt,?,'meio ambiente',arroz,'culturas agricolas',?,'sistemas ag?arios','sistemas de producao',N,PA
+A_2259.2000061500000.txt,?,'meio ambiente',milho,'culturas agricolas',?,manejo,solo,N,PA
+A_2259.2000061500000.txt,?,'meio ambiente',milho,'culturas agricolas',?,'cobertura vegetal',ecologia,N,PA
+A_2259.2000061500000.txt,?,'meio ambiente',milho,'culturas agricolas',?,'sistemas ag?arios','sistemas de producao',N,PA
+A_2259.2000061500000.txt,?,'meio ambiente',dende,?,?,manejo,solo,N,PA
+A_2259.2000061500000.txt,?,'meio ambiente',dende,?,?,'cobertura vegetal',ecologia,N,PA
+A_2259.2000061500000.txt,?,'meio ambiente',dende,?,?,'sistemas ag?arios','sistemas de producao',N,PA
+A_2259.2000061500000.txt,?,'meio ambiente',pimentao,horticolas,?,manejo,solo,N,PA
+A_2259.2000061500000.txt,?,'meio ambiente',pimentao,horticolas,?,manejo,solo,N,PA
+A_2259.2000061500000.txt,?,'meio ambiente',pimentao,horticolas,?,'cobertura vegetal',ecologia,N,PA
+A_2259.2000061500000.txt,?,'meio ambiente',pimentao,horticolas,?,'cobertura vegetal',ecologia,N,PA
+A_2944.2011061500000.txt,?,agrobiodiversidade,taioba,horticolas,suino,'ecologia florestal',ecologia,N,AC
+A_2944.2011061500000.txt,?,agrobiodiversidade,taioba,horticolas,suino,safs,'sistemas de producao',N,AC
+A_2944.2011061500000.txt,?,agrobiodiversidade,taioba,horticolas,suino,safs,'sistemas de producao',N,AC
+A_2944.2011061500000.txt,?,agrobiodiversidade,taioba,horticolas,peixe,manejo,solo,N,AC
+A_2944.2011061500000.txt,?,agrobiodiversidade,taioba,horticolas,peixe,'ecologia florestal',ecologia,N,AC
+A_2944.2011061500000.txt,?,agrobiodiversidade,taioba,horticolas,peixe,safs,'sistemas de producao',N,AC
+A_2944.2011061500000.txt,?,agrobiodiversidade,taioba,horticolas,peixe,safs,'sistemas de producao',N,AC
+A_2944.2011061500000.txt,?,agrobiodiversidade,taioba,horticolas,ovino,manejo,solo,N,AC
+A_2944.2011061500000.txt,?,agrobiodiversidade,taioba,horticolas,ovino,'ecologia florestal',ecologia,N,AC
+A_2944.2011061500000.txt,?,agrobiodiversidade,taioba,horticolas,ovino,safs,'sistemas de producao',N,AC
+A_2944.2011061500000.txt,?,agrobiodiversidade,taioba,horticolas,ovino,safs,'sistemas de producao',N,AC
+A_2944.2011061500000.txt,?,agrobiodiversidade,taioba,horticolas,aves,manejo,solo,N,AC
+A_2944.2011061500000.txt,?,agrobiodiversidade,taioba,horticolas,aves,'ecologia florestal',ecologia,N,AC
+A_2944.2011061500000.txt,?,agrobiodiversidade,taioba,horticolas,aves,safs,'sistemas de producao',N,AC
+A_2944.2011061500000.txt,?,agrobiodiversidade,taioba,horticolas,aves,safs,'sistemas de producao',N,AC
+A_2944.2011061500000.txt,?,agrobiodiversidade,pimenta,horticolas,suino,manejo,solo,N,AC
+A_2944.2011061500000.txt,?,agrobiodiversidade,pimenta,horticolas,suino,'ecologia florestal',ecologia,N,AC
+A_2944.2011061500000.txt,?,agrobiodiversidade,pimenta,horticolas,suino,safs,'sistemas de producao',N,AC
+A_5597.2010061500000.txt,?,'agricultura familiar',nogueira,'arboreas madeira semente produtos',?,?,?,N,PA
+A_3261.1993061500000.txt,?,trabalho,urucum,'arboreas adubacaoverde e massa verde',abelha,?,?,N,PA
+A_938.2000061500000.txt,?,ciencia,?,?,?,biomassa,ecologia,N,PA
+A_938.2000061500000.txt,?,trabalho,?,?,?,biomassa,ecologia,N,PA
+A_4273.1996061500000.txt,?,trabalho,feijao,'culturas agricolas',?,?,?,N,AP
+A_4273.1996061500000.txt,?,trabalho,coentro,horticolas,?,?,?,N,AP
+A_6217.2009061500000.txt,?,'agricultura familiar',pimenta,horticolas,?,adubacao,solo,N,PA
+A_6217.2009061500000.txt,?,'agricultura familiar',pimenta,horticolas,?,safs,'sistemas de producao',N,PA
+A_6217.2009061500000.txt,?,'agricultura familiar',pimenta,horticolas,?,safs,'sistemas de producao',N,PA
+A_6217.2009061500000.txt,?,'agricultura familiar',mogno,'arboreas madeira semente produtos',?,manejo,solo,N,PA
+A_6217.2009061500000.txt,?,'agricultura familiar',mogno,'arboreas madeira semente produtos',?,adubacao,solo,N,PA
+A_6217.2009061500000.txt,?,'agricultura familiar',mogno,'arboreas madeira semente produtos',?,safs,'sistemas de producao',N,PA
+A_6217.2009061500000.txt,?,'agricultura familiar',mogno,'arboreas madeira semente produtos',?,safs,'sistemas de producao',N,PA
+A_6217.2009061500000.txt,?,'agricultura familiar',pimentao,horticolas,?,manejo,solo,N,PA
+A_6217.2009061500000.txt,?,'agricultura familiar',pimentao,horticolas,?,manejo,solo,N,PA
+A_6217.2009061500000.txt,?,'agricultura familiar',pimentao,horticolas,?,adubacao,solo,N,PA
+A_6217.2009061500000.txt,?,'agricultura familiar',pimentao,horticolas,?,adubacao,solo,N,PA
+A_6217.2009061500000.txt,?,'agricultura familiar',pimentao,horticolas,?,safs,'sistemas de producao',N,PA
+A_6217.2009061500000.txt,?,'agricultura familiar',pimentao,horticolas,?,safs,'sistemas de producao',N,PA
+A_6217.2009061500000.txt,?,'agricultura familiar',pimentao,horticolas,?,safs,'sistemas de producao',N,PA
+A_6217.2009061500000.txt,?,'agricultura familiar',pimentao,horticolas,?,safs,'sistemas de producao',N,PA
+A_6217.2009061500000.txt,?,'agricultura familiar',maracuja,'culturas agricolas',?,manejo,solo,N,PA
+A_6217.2009061500000.txt,?,'agricultura familiar',maracuja,'culturas agricolas',?,adubacao,solo,N,PA
+A_6217.2009061500000.txt,?,'agricultura familiar',maracuja,'culturas agricolas',?,safs,'sistemas de producao',N,PA
+A_3138.2000061500000.txt,?,trabalho,pimentao,horticolas,?,biomassa,ecologia,N,AM
+A_3138.2000061500000.txt,?,trabalho,pimentao,horticolas,?,biomassa,ecologia,N,AM
+A_3564.2014061500000.txt,?,trabalho,soja,'culturas agricolas',?,?,?,N,PA
+A_1835.2009061500000.txt,?,'agricultura tradicional',mandioca,'culturas agricolas',gado,adubacao,solo,N,AC
+A_1835.2009061500000.txt,?,'agricultura tradicional',mandioca,'culturas agricolas',gado,safs,'sistemas de producao',N,AC
+A_1835.2009061500000.txt,?,'agricultura tradicional',mandioca,'culturas agricolas',gado,safs,'sistemas de producao',N,AC
+A_1835.2009061500000.txt,?,'agricultura tradicional',mandioca,'culturas agricolas',gado,agroecossistema,'sistemas de producao',N,AC
+A_1835.2009061500000.txt,?,'agricultura tradicional',mandioca,'culturas agricolas',gado,agroecossistema,'sistemas de producao',N,AC
+A_1835.2009061500000.txt,?,'agricultura tradicional',mandioca,'culturas agricolas',gado,agroecossistema,ecologia,N,AC
+A_1835.2009061500000.txt,?,'agricultura tradicional',mandioca,'culturas agricolas',gado,biomassa,ecologia,N,AC
+A_1835.2009061500000.txt,?,'agricultura tradicional',mandioca,'culturas agricolas',suino,manejo,solo,N,AC
+A_1835.2009061500000.txt,?,'agricultura tradicional',mandioca,'culturas agricolas',suino,adubacao,solo,N,AC
+A_1835.2009061500000.txt,?,'agricultura tradicional',mandioca,'culturas agricolas',suino,safs,'sistemas de producao',N,AC
+A_1835.2009061500000.txt,?,'agricultura tradicional',mandioca,'culturas agricolas',suino,safs,'sistemas de producao',N,AC
+A_1835.2009061500000.txt,?,'agricultura tradicional',mandioca,'culturas agricolas',suino,agroecossistema,'sistemas de producao',N,AC
+A_1835.2009061500000.txt,?,'agricultura tradicional',mandioca,'culturas agricolas',suino,agroecossistema,'sistemas de producao',N,AC
+A_1835.2009061500000.txt,?,'agricultura tradicional',mandioca,'culturas agricolas',suino,agroecossistema,ecologia,N,AC
+A_1835.2009061500000.txt,?,'agricultura tradicional',mandioca,'culturas agricolas',suino,biomassa,ecologia,N,AC
+A_1835.2009061500000.txt,?,'agricultura tradicional',nogueira,'arboreas madeira semente produtos',gado,manejo,solo,N,AC
+A_1835.2009061500000.txt,?,'agricultura tradicional',nogueira,'arboreas madeira semente produtos',gado,adubacao,solo,N,AC
+A_1835.2009061500000.txt,?,'agricultura tradicional',nogueira,'arboreas madeira semente produtos',gado,safs,'sistemas de producao',N,AC
+A_4367.2003061500000.txt,?,'agricultura familiar',mandioca,'culturas agricolas',?,adubacao,solo,N,AC
+A_4367.2003061500000.txt,?,'agricultura familiar',abacaxi,'culturas agricolas',?,adubacao,solo,N,AC
+A_4367.2003061500000.txt,?,'agricultura familiar',cupuacu,'arboreas frutiferas',?,adubacao,solo,N,AC
+A_4367.2003061500000.txt,?,'agricultura familiar',pimentao,horticolas,?,adubacao,solo,N,AC
+A_4367.2003061500000.txt,?,'agricultura familiar',pimentao,horticolas,?,adubacao,solo,N,AC
+A_4367.2003061500000.txt,?,'agricultura familiar',pupunha,'arboreas madeira semente produtos',?,adubacao,solo,N,AC
+A_4367.2003061500000.txt,?,'agricultura familiar',banana,'culturas agricolas',?,adubacao,solo,N,AC
+A_4367.2003061500000.txt,?,'agricultura familiar',cafe,?,?,adubacao,solo,N,AC
+A_1705.2008061500000.txt,?,'agricultura familiar',mandioca,'culturas agricolas',?,organico,'sistemas de producao',N,AC
+A_1705.2008061500000.txt,?,'agricultura familiar',mandioca,'culturas agricolas',?,'producao organica',solo,N,AC
+A_1705.2008061500000.txt,?,'agricultura familiar',mandioca,'culturas agricolas',?,'producao organica',planta,N,AC
+A_1705.2008061500000.txt,?,'agricultura familiar',mandioca,'culturas agricolas',?,'producao organica','sistemas de producao',N,AC
+A_1705.2008061500000.txt,?,'agricultura familiar',mandioca,'culturas agricolas',?,manejo,solo,N,AC
+A_1705.2008061500000.txt,?,'agricultura familiar',mandioca,'culturas agricolas',?,organicos,'sistemas de producao',N,AC
+A_1705.2008061500000.txt,?,'agricultura familiar',mandioca,'culturas agricolas',?,organicos,'sistemas de producao',N,AC
+A_1705.2008061500000.txt,?,'agricultura familiar',cupuacu,'arboreas frutiferas',?,organico,'sistemas de producao',N,AC
+A_1705.2008061500000.txt,?,'agricultura familiar',cupuacu,'arboreas frutiferas',?,organico,'sistemas de producao',N,AC
+A_1705.2008061500000.txt,?,'agricultura familiar',cupuacu,'arboreas frutiferas',?,'producao organica',solo,N,AC
+A_1705.2008061500000.txt,?,'agricultura familiar',cupuacu,'arboreas frutiferas',?,'producao organica',planta,N,AC
+A_1705.2008061500000.txt,?,'agricultura familiar',cupuacu,'arboreas frutiferas',?,'producao organica','sistemas de producao',N,AC
+A_1705.2008061500000.txt,?,'agricultura familiar',cupuacu,'arboreas frutiferas',?,manejo,solo,N,AC
+A_1705.2008061500000.txt,?,'agricultura familiar',cupuacu,'arboreas frutiferas',?,organicos,'sistemas de producao',N,AC
+A_1705.2008061500000.txt,?,'agricultura familiar',cupuacu,'arboreas frutiferas',?,organicos,'sistemas de producao',N,AC
+A_1705.2008061500000.txt,?,'agricultura familiar',urucum,'arboreas adubacaoverde e massa verde',?,organico,'sistemas de producao',N,AC
+A_1705.2008061500000.txt,?,'agricultura familiar',urucum,'arboreas adubacaoverde e massa verde',?,organico,'sistemas de producao',N,AC
+A_1705.2008061500000.txt,?,'agricultura familiar',urucum,'arboreas adubacaoverde e massa verde',?,'producao organica',solo,N,AC
+A_5090.2014061500000.txt,?,?,?,?,peixe,?,?,N,PA
+A_5090.2014061500000.txt,?,?,?,?,peixe,?,?,N,AM
+A_5090.2014061500000.txt,?,?,?,?,peixe,?,?,N,AP
+A_3507.2010061500000.txt,?,'agricultura familiar',?,?,?,manejo,solo,N,PA
+A_3507.2010061500000.txt,?,'agricultura familiar',?,?,?,manejo,solo,N,AM
+A_3507.2010061500000.txt,?,trabalho,?,?,?,manejo,solo,N,PA
+A_3507.2010061500000.txt,?,trabalho,?,?,?,manejo,solo,N,AM
+A_2064.2015061500000.txt,?,?,milho,'culturas agricolas',?,'manejo do solo',?,N,PA
+A_2064.2015061500000.txt,?,?,milho,'culturas agricolas',?,manejo,solo,N,PA
+A_2064.2015061500000.txt,?,?,sorgo,'culturas agricolas',?,'manejo do solo',?,N,PA
+A_3405.2009061500000.txt,?,trabalho,?,?,?,agroecossistema,'sistemas de producao',N,PA
+A_3405.2009061500000.txt,?,trabalho,?,?,?,agroecossistema,ecologia,N,PA
+A_2277.2000061500000.txt,?,'agricultura familiar',pimenta,horticolas,suino,organico,'sistemas de producao',N,PA
+A_2277.2000061500000.txt,?,'agricultura familiar',pimenta,horticolas,suino,manejo,solo,N,PA
+A_2277.2000061500000.txt,?,'agricultura familiar',pimenta,horticolas,suino,agroextrativismo,'sistemas de producao',N,PA
+A_2277.2000061500000.txt,?,'agricultura familiar',pimenta,horticolas,suino,'sistemas ag?arios','sistemas de producao',N,PA
+A_2277.2000061500000.txt,?,'agricultura familiar',pimenta,horticolas,suino,agrosilvicultura,'sistemas de producao',N,PA
+A_2277.2000061500000.txt,?,'agricultura familiar',pimenta,horticolas,suino,organicos,'sistemas de producao',N,PA
+A_2277.2000061500000.txt,?,'agricultura familiar',pimenta,horticolas,suino,organicos,'sistemas de producao',N,PA
+A_2277.2000061500000.txt,?,'agricultura familiar',caju,'arboreas frutiferas',suino,organico,'sistemas de producao',N,PA
+A_2277.2000061500000.txt,?,'agricultura familiar',caju,'arboreas frutiferas',suino,organico,'sistemas de producao',N,PA
+A_2277.2000061500000.txt,?,'agricultura familiar',caju,'arboreas frutiferas',suino,manejo,solo,N,PA
+A_2277.2000061500000.txt,?,'agricultura familiar',caju,'arboreas frutiferas',suino,agroextrativismo,'sistemas de producao',N,PA
+A_2277.2000061500000.txt,?,'agricultura familiar',caju,'arboreas frutiferas',suino,'sistemas ag?arios','sistemas de producao',N,PA
+A_2277.2000061500000.txt,?,'agricultura familiar',caju,'arboreas frutiferas',suino,agrosilvicultura,'sistemas de producao',N,PA
+A_2277.2000061500000.txt,?,'agricultura familiar',caju,'arboreas frutiferas',suino,organicos,'sistemas de producao',N,PA
+A_2277.2000061500000.txt,?,'agricultura familiar',caju,'arboreas frutiferas',suino,organicos,'sistemas de producao',N,PA
+A_2277.2000061500000.txt,?,'agricultura familiar',jaca,'arboreas frutiferas',suino,organico,'sistemas de producao',N,PA
+A_2277.2000061500000.txt,?,'agricultura familiar',jaca,'arboreas frutiferas',suino,organico,'sistemas de producao',N,PA
+A_2277.2000061500000.txt,?,'agricultura familiar',jaca,'arboreas frutiferas',suino,manejo,solo,N,PA
+A_3826.2005061500000.txt,?,'agricultura familiar',mandioca,'culturas agricolas',peixe,manejo,solo,N,PA
+A_3826.2005061500000.txt,?,'agricultura familiar',arroz,'culturas agricolas',suino,manejo,solo,N,PA
+A_3826.2005061500000.txt,?,'agricultura familiar',arroz,'culturas agricolas',peixe,manejo,solo,N,PA
+A_3826.2005061500000.txt,?,'agricultura familiar',milho,'culturas agricolas',suino,manejo,solo,N,PA
+A_3826.2005061500000.txt,?,'agricultura familiar',milho,'culturas agricolas',peixe,manejo,solo,N,PA
+A_3826.2005061500000.txt,?,'agricultura familiar',cupuacu,'arboreas frutiferas',suino,manejo,solo,N,PA
+A_3826.2005061500000.txt,?,'agricultura familiar',cupuacu,'arboreas frutiferas',peixe,manejo,solo,N,PA
+A_3826.2005061500000.txt,?,'agricultura familiar',copaiba,'arboreas madeira semente produtos',suino,manejo,solo,N,PA
+A_3826.2005061500000.txt,?,'agricultura familiar',copaiba,'arboreas madeira semente produtos',peixe,manejo,solo,N,PA
+A_3826.2005061500000.txt,?,'agricultura familiar',feijao,'culturas agricolas',suino,manejo,solo,N,PA
+A_3826.2005061500000.txt,?,'agricultura familiar',feijao,'culturas agricolas',peixe,manejo,solo,N,PA
+A_3826.2005061500000.txt,?,'agricultura familiar',cafe,?,suino,manejo,solo,N,PA
+A_3826.2005061500000.txt,?,'agricultura familiar',cafe,?,peixe,manejo,solo,N,PA
+A_3826.2005061500000.txt,?,ciencia,mandioca,'culturas agricolas',suino,manejo,solo,N,PA
+A_3826.2005061500000.txt,?,ciencia,mandioca,'culturas agricolas',peixe,manejo,solo,N,PA
+A_3826.2005061500000.txt,?,ciencia,arroz,'culturas agricolas',suino,manejo,solo,N,PA
+A_3826.2005061500000.txt,?,ciencia,arroz,'culturas agricolas',peixe,manejo,solo,N,PA
+A_3826.2005061500000.txt,?,ciencia,milho,'culturas agricolas',suino,manejo,solo,N,PA
+A_2088.2010061500000.txt,latossolo,'agricultura familiar',araca,?,?,organico,'sistemas de producao',N,PA
+A_2088.2010061500000.txt,latossolo,'agricultura familiar',araca,?,?,plantadora,'engenharia agricola',N,PA
+A_2088.2010061500000.txt,latossolo,'agricultura familiar',araca,?,?,plantadora,'engenharia agricola',N,PA
+A_2088.2010061500000.txt,latossolo,'agricultura familiar',araca,?,?,adubacao,solo,N,PA
+A_2088.2010061500000.txt,latossolo,'agricultura familiar',araca,?,?,organicos,'sistemas de producao',N,PA
+A_2088.2010061500000.txt,latossolo,'agricultura familiar',araca,?,?,organicos,'sistemas de producao',N,PA
+A_2088.2010061500000.txt,latossolo,'agricultura familiar',amendoim,?,?,organico,'sistemas de producao',N,PA
+A_2088.2010061500000.txt,latossolo,'agricultura familiar',amendoim,?,?,organico,'sistemas de producao',N,PA
+A_2088.2010061500000.txt,latossolo,'agricultura familiar',amendoim,?,?,plantadora,'engenharia agricola',N,PA
+A_2088.2010061500000.txt,latossolo,'agricultura familiar',amendoim,?,?,plantadora,'engenharia agricola',N,PA
+A_2088.2010061500000.txt,latossolo,'agricultura familiar',amendoim,?,?,adubacao,solo,N,PA
+A_2088.2010061500000.txt,latossolo,'agricultura familiar',amendoim,?,?,organicos,'sistemas de producao',N,PA
+A_2088.2010061500000.txt,latossolo,'agricultura familiar',amendoim,?,?,organicos,'sistemas de producao',N,PA
+A_2088.2010061500000.txt,latossolo,'agricultura familiar',feijao,'culturas agricolas',?,organico,'sistemas de producao',N,PA
+A_2088.2010061500000.txt,latossolo,'agricultura familiar',feijao,'culturas agricolas',?,organico,'sistemas de producao',N,PA
+A_2088.2010061500000.txt,latossolo,'agricultura familiar',feijao,'culturas agricolas',?,plantadora,'engenharia agricola',N,PA
+A_2088.2010061500000.txt,latossolo,'agricultura familiar',feijao,'culturas agricolas',?,plantadora,'engenharia agricola',N,PA
+A_2088.2010061500000.txt,latossolo,'agricultura familiar',feijao,'culturas agricolas',?,adubacao,solo,N,PA
+A_1324.2009061500000.txt,?,'saber local',pimenta,horticolas,ovino,manejo,solo,N,PA
+A_1324.2009061500000.txt,?,'saber local',nogueira,'arboreas madeira semente produtos',ovino,manejo,solo,N,PA
+A_1324.2009061500000.txt,?,'saber local',pimentao,horticolas,ovino,manejo,solo,N,PA
+A_1324.2009061500000.txt,?,'saber local',pimentao,horticolas,ovino,manejo,solo,N,PA
+A_1324.2009061500000.txt,?,'saber local',algodao,'culturas agricolas',ovino,manejo,solo,N,PA
+A_1324.2009061500000.txt,?,'saber local',soja,'culturas agricolas',ovino,manejo,solo,N,PA
+A_5530.2012061500000.txt,?,'agricultura familiar',arroz,'culturas agricolas',gado,manejo,solo,N,PA
+A_5530.2012061500000.txt,?,'agricultura familiar',milho,'culturas agricolas',gado,manejo,solo,N,PA
+A_5530.2012061500000.txt,?,'agricultura familiar',feijao,'culturas agricolas',gado,manejo,solo,N,PA
+A_5530.2012061500000.txt,?,trabalho,mandioca,'culturas agricolas',gado,manejo,solo,N,PA
+A_5530.2012061500000.txt,?,trabalho,arroz,'culturas agricolas',gado,manejo,solo,N,PA
+A_5530.2012061500000.txt,?,trabalho,milho,'culturas agricolas',gado,manejo,solo,N,PA
+A_5530.2012061500000.txt,?,trabalho,feijao,'culturas agricolas',gado,manejo,solo,N,PA
+A_6065.2012061500000.txt,?,?,?,?,gado,'manejo de agua',solo,N,TO
+A_6065.2012061500000.txt,?,?,?,?,gado,'manejo de agua',planta,N,TO
+A_6065.2012061500000.txt,?,?,?,?,gado,'manejo de agua','engenharia agricola',N,TO
+A_6065.2012061500000.txt,?,?,?,?,gado,'manejo de agua',solo,N,PA
+A_5789.2009061500000.txt,?,?,nogueira,'arboreas madeira semente produtos',?,?,?,N,PA
+A_3498.2008061500000.txt,latossolo,'meio ambiente',arroz,'culturas agricolas',?,biomassa,ecologia,N,AC
+A_3498.2008061500000.txt,latossolo,'meio ambiente',milho,'culturas agricolas',?,biomassa,ecologia,N,AC
+A_3498.2008061500000.txt,latossolo,'meio ambiente',feijao,'culturas agricolas',?,biomassa,ecologia,N,AC
+A_3498.2008061500000.txt,latossolo,'meio ambiente',banana,'culturas agricolas',?,biomassa,ecologia,N,AC
+A_3498.2008061500000.txt,latossolo,'meio ambiente',cafe,?,?,biomassa,ecologia,N,AC
+A_3498.2008061500000.txt,latossolo,'agricultura familiar',mandioca,'culturas agricolas',?,biomassa,ecologia,N,AC
+A_3498.2008061500000.txt,latossolo,'agricultura familiar',arroz,'culturas agricolas',?,biomassa,ecologia,N,AC
+A_3498.2008061500000.txt,latossolo,'agricultura familiar',milho,'culturas agricolas',?,biomassa,ecologia,N,AC
+A_3498.2008061500000.txt,latossolo,'agricultura familiar',feijao,'culturas agricolas',?,biomassa,ecologia,N,AC
+A_3498.2008061500000.txt,latossolo,'agricultura familiar',banana,'culturas agricolas',?,biomassa,ecologia,N,AC
+A_3498.2008061500000.txt,latossolo,'agricultura familiar',cafe,?,?,biomassa,ecologia,N,AC
+A_3498.2008061500000.txt,latossolo,trabalho,mandioca,'culturas agricolas',?,biomassa,ecologia,N,AC
+A_3498.2008061500000.txt,latossolo,trabalho,arroz,'culturas agricolas',?,biomassa,ecologia,N,AC
+A_3498.2008061500000.txt,latossolo,trabalho,milho,'culturas agricolas',?,biomassa,ecologia,N,AC
+A_3498.2008061500000.txt,latossolo,trabalho,feijao,'culturas agricolas',?,biomassa,ecologia,N,AC
+A_3498.2008061500000.txt,latossolo,trabalho,banana,'culturas agricolas',?,biomassa,ecologia,N,AC
+A_3498.2008061500000.txt,latossolo,trabalho,cafe,?,?,biomassa,ecologia,N,AC
+A_5074.2011061500000.txt,?,'agricultura familiar',?,?,?,'sistemas silvipastoris','sistemas de producao',N,RO
+A_5074.2011061500000.txt,?,'agricultura familiar',?,?,?,'sistemas silvipastoris','sistemas de producao',N,RO
+A_6348.2011061500000.txt,?,'agricultura familiar',?,?,?,safs,'sistemas de producao',N,PA
+A_6348.2011061500000.txt,?,'agricultura familiar',?,?,?,agrosilvicultura,'sistemas de producao',N,PA
+A_6210.2002061500000.txt,argissolo,trabalho,?,?,?,organico,'sistemas de producao',N,RO
+A_6210.2002061500000.txt,argissolo,trabalho,?,?,?,organicos,'sistemas de producao',N,RO
+A_6210.2002061500000.txt,argissolo,trabalho,?,?,?,organicos,'sistemas de producao',N,RO
+A_6210.2002061500000.txt,luvissolo,trabalho,?,?,?,organico,'sistemas de producao',N,RO
+A_6210.2002061500000.txt,luvissolo,trabalho,?,?,?,organico,'sistemas de producao',N,RO
+A_6210.2002061500000.txt,luvissolo,trabalho,?,?,?,organicos,'sistemas de producao',N,RO
+A_6210.2002061500000.txt,luvissolo,trabalho,?,?,?,organicos,'sistemas de producao',N,RO
+A_4949.2009061500000.txt,?,'agricultura familiar',cacau,'culturas agricolas',?,safs,'sistemas de producao',N,PA
+A_4949.2009061500000.txt,?,'agricultura familiar',cacau,'culturas agricolas',?,agrosilvicultura,'sistemas de producao',N,PA
+A_3503.2008061500000.txt,?,trabalho,?,?,?,?,?,N,AC
+A_4761.2009061500000.txt,?,'meio ambiente',milho,'culturas agricolas',?,?,?,N,PA
+A_4761.2009061500000.txt,?,'meio ambiente',trevo,horticolas,?,?,?,N,PA
+A_4761.2009061500000.txt,?,'agricultura familiar',mandioca,'culturas agricolas',?,?,?,N,PA
+A_4761.2009061500000.txt,?,'agricultura familiar',milho,'culturas agricolas',?,?,?,N,PA
+A_4761.2009061500000.txt,?,'agricultura familiar',trevo,horticolas,?,?,?,N,PA
+A_4761.2009061500000.txt,?,trabalho,mandioca,'culturas agricolas',?,?,?,N,PA
+A_4761.2009061500000.txt,?,trabalho,milho,'culturas agricolas',?,?,?,N,PA
+A_4761.2009061500000.txt,?,trabalho,trevo,horticolas,?,?,?,N,PA
+A_99.2015061500000.txt,?,'agricultura familiar',?,?,?,agroecossistema,'sistemas de producao',N,PA
+A_99.2015061500000.txt,?,'agricultura familiar',?,?,?,agroecossistema,'sistemas de producao',N,PA
+A_99.2015061500000.txt,?,'agricultura familiar',?,?,?,agroecossistema,ecologia,N,PA
+A_99.2015061500000.txt,?,trabalho,?,?,?,manejo,solo,N,PA
+A_99.2015061500000.txt,?,trabalho,?,?,?,agroecossistema,'sistemas de producao',N,PA
+A_99.2015061500000.txt,?,trabalho,?,?,?,agroecossistema,'sistemas de producao',N,PA
+A_99.2015061500000.txt,?,trabalho,?,?,?,agroecossistema,ecologia,N,PA
+A_4251.2008061500000.txt,?,trabalho,?,?,?,adubacao,solo,N,AC
+A_2220.2011061500000.txt,?,trabalho,arroz,'culturas agricolas',?,adubacao,solo,N,PA
+A_635.1999061500000.txt,?,'agricultura familiar',?,?,?,safs,'sistemas de producao',N,AC
+A_635.1999061500000.txt,?,trabalho,?,?,?,safs,'sistemas de producao',N,AC
+A_635.1999061500000.txt,?,trabalho,?,?,?,safs,'sistemas de producao',N,AC
+A_4724.2002061500000.txt,?,'agricultura familiar',milho,'culturas agricolas',?,biomassa,ecologia,N,AM
+A_4724.2002061500000.txt,?,'agricultura familiar',acacia,'arboreas madeira semente produtos',?,biomassa,ecologia,N,AM
+A_4724.2002061500000.txt,?,trabalho,mandioca,'culturas agricolas',?,biomassa,ecologia,N,AM
+A_4724.2002061500000.txt,?,trabalho,milho,'culturas agricolas',?,biomassa,ecologia,N,AM
+A_4724.2002061500000.txt,?,trabalho,acacia,'arboreas madeira semente produtos',?,biomassa,ecologia,N,AM
+A_3676.2011061500000.txt,?,trabalho,?,?,?,?,?,N,AC
+A_1741.2008061500000.txt,?,'agricultura familiar',mandioca,'culturas agricolas',?,organico,'sistemas de producao',N,AC
+A_1741.2008061500000.txt,?,'agricultura familiar',mandioca,'culturas agricolas',?,'producao organica',solo,N,AC
+A_1741.2008061500000.txt,?,'agricultura familiar',mandioca,'culturas agricolas',?,'producao organica',planta,N,AC
+A_1741.2008061500000.txt,?,'agricultura familiar',mandioca,'culturas agricolas',?,'producao organica','sistemas de producao',N,AC
+A_1741.2008061500000.txt,?,'agricultura familiar',mandioca,'culturas agricolas',?,manejo,solo,N,AC
+A_1741.2008061500000.txt,?,'agricultura familiar',mandioca,'culturas agricolas',?,organicos,'sistemas de producao',N,AC
+A_1741.2008061500000.txt,?,'agricultura familiar',mandioca,'culturas agricolas',?,organicos,'sistemas de producao',N,AC
+A_1741.2008061500000.txt,?,'agricultura familiar',cupuacu,'arboreas frutiferas',?,organico,'sistemas de producao',N,AC
+A_1741.2008061500000.txt,?,'agricultura familiar',cupuacu,'arboreas frutiferas',?,organico,'sistemas de producao',N,AC
+A_1741.2008061500000.txt,?,'agricultura familiar',cupuacu,'arboreas frutiferas',?,'producao organica',solo,N,AC
+A_1741.2008061500000.txt,?,'agricultura familiar',cupuacu,'arboreas frutiferas',?,'producao organica',planta,N,AC
+A_1741.2008061500000.txt,?,'agricultura familiar',cupuacu,'arboreas frutiferas',?,'producao organica','sistemas de producao',N,AC
+A_1741.2008061500000.txt,?,'agricultura familiar',cupuacu,'arboreas frutiferas',?,manejo,solo,N,AC
+A_1741.2008061500000.txt,?,'agricultura familiar',cupuacu,'arboreas frutiferas',?,organicos,'sistemas de producao',N,AC
+A_1741.2008061500000.txt,?,'agricultura familiar',cupuacu,'arboreas frutiferas',?,organicos,'sistemas de producao',N,AC
+A_1741.2008061500000.txt,?,'agricultura familiar',urucum,'arboreas adubacaoverde e massa verde',?,organico,'sistemas de producao',N,AC
+A_1741.2008061500000.txt,?,'agricultura familiar',urucum,'arboreas adubacaoverde e massa verde',?,organico,'sistemas de producao',N,AC
+A_1741.2008061500000.txt,?,'agricultura familiar',urucum,'arboreas adubacaoverde e massa verde',?,'producao organica',solo,N,AC
+A_5575.2007061500000.txt,?,'agricultura familiar',?,?,?,?,?,N,TO
+A_5575.2007061500000.txt,?,'agricultura familiar',?,?,?,?,?,N,PA
+A_1504.1990061500000.txt,?,'agricultura familiar',?,?,?,?,?,N,AC
+A_2504.2000061500000.txt,?,'meio ambiente',mandioca,'culturas agricolas',?,'producao organica',planta,N,RO
+A_2504.2000061500000.txt,?,'meio ambiente',mandioca,'culturas agricolas',?,'producao organica','sistemas de producao',N,RO
+A_2504.2000061500000.txt,?,'meio ambiente',mandioca,'culturas agricolas',?,'cobertura vegetal',ecologia,N,RO
+A_2504.2000061500000.txt,?,'meio ambiente',mandioca,'culturas agricolas',?,safs,'sistemas de producao',N,RO
+A_2504.2000061500000.txt,?,'meio ambiente',mandioca,'culturas agricolas',?,safs,'sistemas de producao',N,RO
+A_2504.2000061500000.txt,?,'meio ambiente',cupuacu,'arboreas frutiferas',?,'producao organica',solo,N,RO
+A_2504.2000061500000.txt,?,'meio ambiente',cupuacu,'arboreas frutiferas',?,'producao organica',planta,N,RO
+A_2504.2000061500000.txt,?,'meio ambiente',cupuacu,'arboreas frutiferas',?,'producao organica','sistemas de producao',N,RO
+A_2504.2000061500000.txt,?,'meio ambiente',cupuacu,'arboreas frutiferas',?,'cobertura vegetal',ecologia,N,RO
+A_2504.2000061500000.txt,?,'meio ambiente',cupuacu,'arboreas frutiferas',?,safs,'sistemas de producao',N,RO
+A_2504.2000061500000.txt,?,'meio ambiente',cupuacu,'arboreas frutiferas',?,safs,'sistemas de producao',N,RO
+A_2504.2000061500000.txt,?,'meio ambiente',pupunha,'arboreas madeira semente produtos',?,'producao organica',solo,N,RO
+A_2504.2000061500000.txt,?,'meio ambiente',pupunha,'arboreas madeira semente produtos',?,'producao organica',planta,N,RO
+A_2504.2000061500000.txt,?,'meio ambiente',pupunha,'arboreas madeira semente produtos',?,'producao organica','sistemas de producao',N,RO
+A_2504.2000061500000.txt,?,'meio ambiente',pupunha,'arboreas madeira semente produtos',?,'cobertura vegetal',ecologia,N,RO
+A_2504.2000061500000.txt,?,'meio ambiente',pupunha,'arboreas madeira semente produtos',?,safs,'sistemas de producao',N,RO
+A_2504.2000061500000.txt,?,'meio ambiente',pupunha,'arboreas madeira semente produtos',?,safs,'sistemas de producao',N,RO
+A_2504.2000061500000.txt,?,'meio ambiente',coentro,horticolas,?,'producao organica',solo,N,RO
+A_4800.2006061500000.txt,?,'agricultura familiar',feijao,'culturas agricolas',?,?,?,N,RO
+A_4800.2006061500000.txt,?,trabalho,vagem,horticolas,?,?,?,N,RO
+A_4800.2006061500000.txt,?,trabalho,feijao,'culturas agricolas',?,?,?,N,RO
+A_3201.2011061500000.txt,?,?,?,?,?,'agricultura de precisao',geotecnologias,N,PA
+A_3201.2011061500000.txt,?,?,?,?,?,'agricultura de precisao',planta,N,PA
+A_5224.2007061500000.txt,?,trabalho,?,?,?,organico,'sistemas de producao',N,TO
+A_5224.2007061500000.txt,?,trabalho,?,?,?,organico,'sistemas de producao',N,TO
+A_5224.2007061500000.txt,?,trabalho,?,?,?,organico,'sistemas de producao',N,PA
+A_5224.2007061500000.txt,?,trabalho,?,?,?,organico,'sistemas de producao',N,PA
+A_1267.2015061500000.txt,?,trabalho,?,?,?,manejo,solo,N,AM
+A_427.2009061500000.txt,?,'agricultura tradicional',pimenta,horticolas,?,organico,'sistemas de producao',N,PA
+A_427.2009061500000.txt,?,'agricultura tradicional',pimenta,horticolas,?,manejo,solo,N,PA
+A_427.2009061500000.txt,?,'agricultura tradicional',pimenta,horticolas,?,organicos,'sistemas de producao',N,PA
+A_427.2009061500000.txt,?,'agricultura tradicional',pimenta,horticolas,?,organicos,'sistemas de producao',N,PA
+A_427.2009061500000.txt,?,'agricultura tradicional',pimenta,horticolas,?,agroecossistema,'sistemas de producao',N,PA
+A_427.2009061500000.txt,?,'agricultura tradicional',pimenta,horticolas,?,agroecossistema,'sistemas de producao',N,PA
+A_427.2009061500000.txt,?,'agricultura tradicional',pimenta,horticolas,?,agroecossistema,ecologia,N,PA
+A_427.2009061500000.txt,?,'agricultura tradicional',mandioca,'culturas agricolas',?,organico,'sistemas de producao',N,PA
+A_427.2009061500000.txt,?,'agricultura tradicional',mandioca,'culturas agricolas',?,organico,'sistemas de producao',N,PA
+A_427.2009061500000.txt,?,'agricultura tradicional',mandioca,'culturas agricolas',?,manejo,solo,N,PA
+A_427.2009061500000.txt,?,'agricultura tradicional',mandioca,'culturas agricolas',?,organicos,'sistemas de producao',N,PA
+A_427.2009061500000.txt,?,'agricultura tradicional',mandioca,'culturas agricolas',?,organicos,'sistemas de producao',N,PA
+A_427.2009061500000.txt,?,'agricultura tradicional',mandioca,'culturas agricolas',?,agroecossistema,'sistemas de producao',N,PA
+A_427.2009061500000.txt,?,'agricultura tradicional',mandioca,'culturas agricolas',?,agroecossistema,'sistemas de producao',N,PA
+A_427.2009061500000.txt,?,'agricultura tradicional',mandioca,'culturas agricolas',?,agroecossistema,ecologia,N,PA
+A_427.2009061500000.txt,?,'agricultura tradicional',milho,'culturas agricolas',?,organico,'sistemas de producao',N,PA
+A_427.2009061500000.txt,?,'agricultura tradicional',milho,'culturas agricolas',?,organico,'sistemas de producao',N,PA
+A_427.2009061500000.txt,?,'agricultura tradicional',milho,'culturas agricolas',?,manejo,solo,N,PA
+A_1204.2013061500000.txt,?,'agricultura familiar',?,?,?,?,?,N,AC
+A_1204.2013061500000.txt,?,trabalho,?,?,?,?,?,N,AC
+A_5488.2006061500000.txt,?,?,tomate,horticolas,?,?,?,N,TO
+A_5488.2006061500000.txt,?,?,tomate,horticolas,?,?,?,N,PA
+A_3251.2002061500000.txt,latossolo,'agricultura familiar',milho,'culturas agricolas',?,manejo,solo,N,PA
+A_3251.2002061500000.txt,latossolo,'agricultura familiar',milho,'culturas agricolas',?,adubacao,solo,N,PA
+A_3251.2002061500000.txt,latossolo,'agricultura familiar',milho,'culturas agricolas',?,agroecossistema,'sistemas de producao',N,PA
+A_3251.2002061500000.txt,latossolo,'agricultura familiar',milho,'culturas agricolas',?,agroecossistema,'sistemas de producao',N,PA
+A_3251.2002061500000.txt,latossolo,'agricultura familiar',milho,'culturas agricolas',?,agroecossistema,ecologia,N,PA
+A_3251.2002061500000.txt,latossolo,'agricultura familiar',feijao,'culturas agricolas',?,'manejo nos cultivos',?,N,PA
+A_3251.2002061500000.txt,latossolo,'agricultura familiar',feijao,'culturas agricolas',?,manejo,solo,N,PA
+A_3251.2002061500000.txt,latossolo,'agricultura familiar',feijao,'culturas agricolas',?,adubacao,solo,N,PA
+A_3251.2002061500000.txt,latossolo,'agricultura familiar',feijao,'culturas agricolas',?,agroecossistema,'sistemas de producao',N,PA
+A_3251.2002061500000.txt,latossolo,'agricultura familiar',feijao,'culturas agricolas',?,agroecossistema,'sistemas de producao',N,PA
+A_3251.2002061500000.txt,latossolo,'agricultura familiar',feijao,'culturas agricolas',?,agroecossistema,ecologia,N,PA
+A_4593.2006061500000.txt,?,'agricultura familiar',feijao,'culturas agricolas',?,adubacao,solo,N,RO
+A_4593.2006061500000.txt,?,trabalho,vagem,horticolas,?,adubacao,solo,N,RO
+A_4593.2006061500000.txt,?,trabalho,feijao,'culturas agricolas',?,adubacao,solo,N,RO
+A_3181.1990061500000.txt,?,?,?,?,?,manejo,solo,N,PA
+A_1037.2013061500000.txt,?,'agricultura familiar',?,?,?,safs,'sistemas de producao',N,PA
+A_5487.2011061500000.txt,latossolo,trabalho,pimenta,horticolas,?,adubacao,solo,N,PA
+A_5487.2011061500000.txt,latossolo,trabalho,mandioca,'culturas agricolas',?,manejo,solo,N,PA
+A_5487.2011061500000.txt,latossolo,trabalho,mandioca,'culturas agricolas',?,adubacao,solo,N,PA
+A_5487.2011061500000.txt,latossolo,trabalho,arroz,'culturas agricolas',?,manejo,solo,N,PA
+A_5487.2011061500000.txt,latossolo,trabalho,arroz,'culturas agricolas',?,adubacao,solo,N,PA
+A_5487.2011061500000.txt,latossolo,trabalho,milho,'culturas agricolas',?,manejo,solo,N,PA
+A_5487.2011061500000.txt,latossolo,trabalho,milho,'culturas agricolas',?,adubacao,solo,N,PA
+A_5487.2011061500000.txt,latossolo,trabalho,abacaxi,'culturas agricolas',?,manejo,solo,N,PA
+A_5487.2011061500000.txt,latossolo,trabalho,abacaxi,'culturas agricolas',?,adubacao,solo,N,PA
+A_5487.2011061500000.txt,latossolo,trabalho,pimentao,horticolas,?,manejo,solo,N,PA
+A_5487.2011061500000.txt,latossolo,trabalho,pimentao,horticolas,?,manejo,solo,N,PA
+A_5487.2011061500000.txt,latossolo,trabalho,pimentao,horticolas,?,adubacao,solo,N,PA
+A_5487.2011061500000.txt,latossolo,trabalho,pimentao,horticolas,?,adubacao,solo,N,PA
+A_5487.2011061500000.txt,latossolo,trabalho,feijao,'culturas agricolas',?,manejo,solo,N,PA
+A_5487.2011061500000.txt,latossolo,trabalho,feijao,'culturas agricolas',?,adubacao,solo,N,PA
+A_5487.2011061500000.txt,latossolo,trabalho,banana,'culturas agricolas',?,manejo,solo,N,PA
+A_5487.2011061500000.txt,latossolo,trabalho,banana,'culturas agricolas',?,adubacao,solo,N,PA
+A_5487.2011061500000.txt,latossolo,trabalho,cacau,'culturas agricolas',?,manejo,solo,N,PA
+A_897.2016061500000.txt,?,'meio ambiente',?,?,?,organico,'sistemas de producao',N,AM
+A_897.2016061500000.txt,?,'meio ambiente',?,?,?,'producao organica',solo,N,AM
+A_897.2016061500000.txt,?,'meio ambiente',?,?,?,'producao organica',planta,N,AM
+A_897.2016061500000.txt,?,'meio ambiente',?,?,?,'producao organica','sistemas de producao',N,AM
+A_897.2016061500000.txt,?,'meio ambiente',?,?,?,manejo,solo,N,AM
+A_897.2016061500000.txt,?,'meio ambiente',?,?,?,'manejo ecologico','sistemas de producao',N,AM
+A_897.2016061500000.txt,?,'meio ambiente',?,?,?,'manejo ecologico',ecologia,N,AM
+A_897.2016061500000.txt,?,'meio ambiente',?,?,?,adubacao,solo,N,AM
+A_897.2016061500000.txt,?,'meio ambiente',?,?,?,organicos,'sistemas de producao',N,AM
+A_897.2016061500000.txt,?,'meio ambiente',?,?,?,organicos,'sistemas de producao',N,AM
+A_897.2016061500000.txt,?,'meio ambiente',?,?,?,biomassa,ecologia,N,AM
+A_897.2016061500000.txt,?,'certificacao organica',?,?,?,organico,'sistemas de producao',N,AM
+A_897.2016061500000.txt,?,'certificacao organica',?,?,?,organico,'sistemas de producao',N,AM
+A_897.2016061500000.txt,?,'certificacao organica',?,?,?,'producao organica',solo,N,AM
+A_897.2016061500000.txt,?,'certificacao organica',?,?,?,'producao organica',planta,N,AM
+A_897.2016061500000.txt,?,'certificacao organica',?,?,?,'producao organica','sistemas de producao',N,AM
+A_897.2016061500000.txt,?,'certificacao organica',?,?,?,manejo,solo,N,AM
+A_897.2016061500000.txt,?,'certificacao organica',?,?,?,'manejo ecologico','sistemas de producao',N,AM
+A_5184.2011061500000.txt,?,'agricultura familiar',cenoura,horticolas,caprino,manejo,solo,N,PA
+A_5184.2011061500000.txt,?,'agricultura familiar',nogueira,'arboreas madeira semente produtos',caprino,manejo,solo,N,PA
+A_5184.2011061500000.txt,?,'agricultura familiar',abacaxi,'culturas agricolas',caprino,manejo,solo,N,PA
+A_5184.2011061500000.txt,?,'agricultura familiar',cupuacu,'arboreas frutiferas',caprino,manejo,solo,N,PA
+A_5184.2011061500000.txt,?,'agricultura familiar',pupunha,'arboreas madeira semente produtos',caprino,manejo,solo,N,PA
+A_5184.2011061500000.txt,?,'agricultura familiar',maracuja,'culturas agricolas',caprino,manejo,solo,N,PA
+A_5184.2011061500000.txt,?,'agricultura familiar',coentro,horticolas,caprino,manejo,solo,N,PA
+A_5184.2011061500000.txt,?,'agricultura familiar',cacau,'culturas agricolas',caprino,manejo,solo,N,PA
+A_5184.2011061500000.txt,?,'agricultura familiar',cafe,?,caprino,manejo,solo,N,PA
+A_5184.2011061500000.txt,?,'agricultura familiar',goiaba,'arboreas frutiferas',caprino,manejo,solo,N,PA
+A_5184.2011061500000.txt,?,trabalho,caju,'arboreas frutiferas',caprino,manejo,solo,N,PA
+A_5184.2011061500000.txt,?,trabalho,cenoura,horticolas,caprino,manejo,solo,N,PA
+A_5184.2011061500000.txt,?,trabalho,nogueira,'arboreas madeira semente produtos',caprino,manejo,solo,N,PA
+A_5184.2011061500000.txt,?,trabalho,abacaxi,'culturas agricolas',caprino,manejo,solo,N,PA
+A_5184.2011061500000.txt,?,trabalho,cupuacu,'arboreas frutiferas',caprino,manejo,solo,N,PA
+A_5184.2011061500000.txt,?,trabalho,pupunha,'arboreas madeira semente produtos',caprino,manejo,solo,N,PA
+A_5184.2011061500000.txt,?,trabalho,maracuja,'culturas agricolas',caprino,manejo,solo,N,PA
+A_5184.2011061500000.txt,?,trabalho,coentro,horticolas,caprino,manejo,solo,N,PA
+A_5934.2009061500000.txt,?,?,nogueira,'arboreas madeira semente produtos',?,?,?,N,PA
+A_441.1999061500000.txt,?,trabalho,?,?,?,?,?,N,PA
+A_441.1999061500000.txt,?,trabalho,?,?,?,?,?,N,RO
+A_441.1999061500000.txt,?,trabalho,?,?,?,?,?,N,AC
+A_441.1999061500000.txt,?,trabalho,?,?,?,?,?,N,AM
+A_1553.2011061500000.txt,?,'certificacao organica',mamona,'culturas agricolas',gado,organico,'sistemas de producao',N,TO
+A_1553.2011061500000.txt,?,'certificacao organica',mamona,'culturas agricolas',gado,organico,'sistemas de producao',N,TO
+A_1553.2011061500000.txt,?,'certificacao organica',mamona,'culturas agricolas',gado,organico,'sistemas de producao',N,PA
+A_1553.2011061500000.txt,?,'certificacao organica',mamona,'culturas agricolas',gado,organico,'sistemas de producao',N,PA
+A_1429.2009061500000.txt,?,trabalho,feijao,'culturas agricolas',?,adubacao,solo,N,PA
+A_6224.2004061500000.txt,?,trabalho,coentro,horticolas,?,?,?,N,TO
+A_6224.2004061500000.txt,?,trabalho,coentro,horticolas,?,?,?,N,PA
+A_6224.2004061500000.txt,?,trabalho,melao,?,?,?,?,N,TO
+A_6224.2004061500000.txt,?,trabalho,melao,?,?,?,?,N,PA
+A_3601.2008061500000.txt,?,?,arroz,'culturas agricolas',?,?,?,N,PA
+A_1896.2014061500000.txt,?,'meio ambiente',?,?,?,safs,'sistemas de producao',N,PA
+A_1896.2014061500000.txt,?,'agricultura familiar',?,?,?,safs,'sistemas de producao',N,PA
+A_1896.2014061500000.txt,?,'agricultura familiar',?,?,?,safs,'sistemas de producao',N,PA
+A_1896.2014061500000.txt,?,trabalho,?,?,?,safs,'sistemas de producao',N,PA
+A_1896.2014061500000.txt,?,trabalho,?,?,?,safs,'sistemas de producao',N,PA
+A_2683.2007061500000.txt,latossolo,trabalho,palmeira,'arboreas madeira semente produtos',?,manejo,solo,N,RO
+A_6295.2008061500000.txt,?,'agricultura familiar',mandioca,'culturas agricolas',?,'cobertura vegetal',ecologia,N,PA
+A_6295.2008061500000.txt,?,'agricultura familiar',arroz,'culturas agricolas',?,'cobertura vegetal',ecologia,N,PA
+A_6295.2008061500000.txt,?,'agricultura familiar',milho,'culturas agricolas',?,'cobertura vegetal',ecologia,N,PA
+A_6295.2008061500000.txt,?,'agricultura familiar',abacaxi,'culturas agricolas',?,'cobertura vegetal',ecologia,N,PA
+A_6295.2008061500000.txt,?,'agricultura familiar',dende,?,?,'cobertura vegetal',ecologia,N,PA
+A_6295.2008061500000.txt,?,'agricultura familiar',cupuacu,'arboreas frutiferas',?,'cobertura vegetal',ecologia,N,PA
+A_6295.2008061500000.txt,?,'agricultura familiar',pimentao,horticolas,?,'cobertura vegetal',ecologia,N,PA
+A_6295.2008061500000.txt,?,'agricultura familiar',pimentao,horticolas,?,'cobertura vegetal',ecologia,N,PA
+A_6295.2008061500000.txt,?,'agricultura familiar',feijao,'culturas agricolas',?,'cobertura vegetal',ecologia,N,PA
+A_6295.2008061500000.txt,?,'agricultura familiar',maracuja,'culturas agricolas',?,'cobertura vegetal',ecologia,N,PA
+A_6295.2008061500000.txt,?,trabalho,pimenta,horticolas,?,'cobertura vegetal',ecologia,N,PA
+A_6295.2008061500000.txt,?,trabalho,mandioca,'culturas agricolas',?,'cobertura vegetal',ecologia,N,PA
+A_6295.2008061500000.txt,?,trabalho,arroz,'culturas agricolas',?,'cobertura vegetal',ecologia,N,PA
+A_6295.2008061500000.txt,?,trabalho,milho,'culturas agricolas',?,'cobertura vegetal',ecologia,N,PA
+A_6295.2008061500000.txt,?,trabalho,abacaxi,'culturas agricolas',?,'cobertura vegetal',ecologia,N,PA
+A_6295.2008061500000.txt,?,trabalho,dende,?,?,'cobertura vegetal',ecologia,N,PA
+A_6295.2008061500000.txt,?,trabalho,cupuacu,'arboreas frutiferas',?,'cobertura vegetal',ecologia,N,PA
+A_6295.2008061500000.txt,?,trabalho,pimentao,horticolas,?,'cobertura vegetal',ecologia,N,PA
+A_6212.2005061500000.txt,?,?,melancia,'culturas agricolas',?,?,?,N,TO
+A_6212.2005061500000.txt,?,?,melancia,'culturas agricolas',?,?,?,N,PA
+A_4475.2014061500000.txt,?,?,coentro,horticolas,?,?,?,N,AC
+A_2919.2012061500000.txt,?,'agricultura familiar',?,?,?,'sistemas silvipastoris','sistemas de producao',N,RO
+A_2919.2012061500000.txt,?,'agricultura familiar',?,?,?,'sistemas silvipastoris','sistemas de producao',N,RO
+A_2919.2012061500000.txt,?,'agricultura familiar',?,?,?,geoprocessamento,geotecnologias,N,RO
+A_2919.2012061500000.txt,?,trabalho,?,?,?,'sistemas silvipastoris','sistemas de producao',N,RO
+A_2919.2012061500000.txt,?,trabalho,?,?,?,'sistemas silvipastoris','sistemas de producao',N,RO
+A_2919.2012061500000.txt,?,trabalho,?,?,?,'sistemas silvipastoris','sistemas de producao',N,RO
+A_2919.2012061500000.txt,?,trabalho,?,?,?,geoprocessamento,geotecnologias,N,RO
+A_2335.2015061500000.txt,?,'agricultura familiar',milho,'culturas agricolas',?,?,?,N,PA
+A_2335.2015061500000.txt,?,'agricultura familiar',sorgo,'culturas agricolas',?,?,?,N,PA
+A_2335.2015061500000.txt,?,'agricultura familiar',soja,'culturas agricolas',?,?,?,N,PA
+A_2460.2004061500000.txt,?,'agricultura familiar',?,?,?,?,?,N,TO
+A_2460.2004061500000.txt,?,'agricultura familiar',?,?,?,?,?,N,PA
+A_2497.2008061500000.txt,?,?,milho,'culturas agricolas',?,?,?,N,TO
+A_2497.2008061500000.txt,?,?,milho,'culturas agricolas',?,?,?,N,PA
+A_1708.2007061500000.txt,?,agrobiodiversidade,pimenta,horticolas,?,organico,'sistemas de producao',N,AM
+A_1708.2007061500000.txt,?,agrobiodiversidade,pimenta,horticolas,?,'manejo do solo',?,N,AM
+A_1708.2007061500000.txt,?,agrobiodiversidade,pimenta,horticolas,?,'transicao agroecologica',ecologia,N,AM
+A_1708.2007061500000.txt,?,agrobiodiversidade,pimenta,horticolas,?,manejo,solo,N,AM
+A_1708.2007061500000.txt,?,agrobiodiversidade,pimenta,horticolas,?,organicos,'sistemas de producao',N,AM
+A_1708.2007061500000.txt,?,agrobiodiversidade,pimenta,horticolas,?,organicos,'sistemas de producao',N,AM
+A_1708.2007061500000.txt,?,agrobiodiversidade,pimenta,horticolas,?,agroecossistema,'sistemas de producao',N,AM
+A_1708.2007061500000.txt,?,agrobiodiversidade,pimenta,horticolas,?,agroecossistema,'sistemas de producao',N,AM
+A_1708.2007061500000.txt,?,agrobiodiversidade,pimenta,horticolas,?,agroecossistema,ecologia,N,AM
+A_1708.2007061500000.txt,?,agrobiodiversidade,caju,'arboreas frutiferas',?,organico,'sistemas de producao',N,AM
+A_1708.2007061500000.txt,?,agrobiodiversidade,caju,'arboreas frutiferas',?,organico,'sistemas de producao',N,AM
+A_1708.2007061500000.txt,?,agrobiodiversidade,caju,'arboreas frutiferas',?,'manejo do solo',?,N,AM
+A_1708.2007061500000.txt,?,agrobiodiversidade,caju,'arboreas frutiferas',?,'transicao agroecologica',ecologia,N,AM
+A_1708.2007061500000.txt,?,agrobiodiversidade,caju,'arboreas frutiferas',?,manejo,solo,N,AM
+A_1708.2007061500000.txt,?,agrobiodiversidade,caju,'arboreas frutiferas',?,organicos,'sistemas de producao',N,AM
+A_1708.2007061500000.txt,?,agrobiodiversidade,caju,'arboreas frutiferas',?,organicos,'sistemas de producao',N,AM
+A_1708.2007061500000.txt,?,agrobiodiversidade,caju,'arboreas frutiferas',?,agroecossistema,'sistemas de producao',N,AM
+A_1708.2007061500000.txt,?,agrobiodiversidade,caju,'arboreas frutiferas',?,agroecossistema,'sistemas de producao',N,AM
+A_1294.2015061500000.txt,?,'agricultura familiar',?,?,?,?,?,N,AM
+A_1294.2015061500000.txt,?,'comunidades rurais',?,?,?,?,?,N,AM
+A_5902.2010061500000.txt,?,?,?,?,?,'sistemas silvipastoris','sistemas de producao',N,PA
+A_5902.2010061500000.txt,?,?,?,?,?,'sistemas silvipastoris','sistemas de producao',N,PA
+A_5735.2002061500000.txt,?,trabalho,?,?,?,?,?,N,PA
+A_4236.2015061500000.txt,?,trabalho,?,?,?,manejo,solo,N,AM
+A_1035.2015061500000.txt,?,'agricultura familiar',?,?,ovino,manejo,solo,N,AC
+A_511.2015061500000.txt,argissolo,?,milho,'culturas agricolas',?,?,?,N,AC
+A_1552.2011061500000.txt,argissolo,trabalho,crotalaria,'adubos verdes',suino,organico,'sistemas de producao',N,TO
+A_1552.2011061500000.txt,argissolo,trabalho,crotalaria,'adubos verdes',suino,organico,'sistemas de producao',N,TO
+A_1552.2011061500000.txt,argissolo,trabalho,crotalaria,'adubos verdes',suino,organico,'sistemas de producao',N,PA
+A_1552.2011061500000.txt,argissolo,trabalho,crotalaria,'adubos verdes',suino,organico,'sistemas de producao',N,PA
+A_4387.2008061500000.txt,?,trabalho,?,?,?,?,?,N,RO
+A_516.2008061500000.txt,?,trabalho,tomate,horticolas,?,?,?,N,AM
+A_5139.2015061500000.txt,?,'agricultura familiar',arroz,'culturas agricolas',?,?,?,N,AP
+A_5139.2015061500000.txt,?,'agricultura familiar',milho,'culturas agricolas',?,?,?,N,AP
+A_5139.2015061500000.txt,?,'agricultura familiar',feijao,'culturas agricolas',?,?,?,N,AP
+A_151.2015061500000.txt,?,trabalho,?,?,?,organico,'sistemas de producao',N,AM
+A_151.2015061500000.txt,?,trabalho,?,?,?,manejo,solo,N,AM
+A_151.2015061500000.txt,?,trabalho,?,?,?,organicos,'sistemas de producao',N,AM
+A_151.2015061500000.txt,?,trabalho,?,?,?,organicos,'sistemas de producao',N,AM
+A_6097.2014061500000.txt,?,'agricultura familiar',?,?,?,'sistemas silvipastoris','sistemas de producao',N,RO
+A_6097.2014061500000.txt,?,'agricultura familiar',?,?,?,'sistemas silvipastoris','sistemas de producao',N,RO
+A_6097.2014061500000.txt,?,trabalho,?,?,?,'sistemas silvipastoris','sistemas de producao',N,RO
+A_6097.2014061500000.txt,?,trabalho,?,?,?,'sistemas silvipastoris','sistemas de producao',N,RO
+A_6097.2014061500000.txt,?,trabalho,?,?,?,'sistemas silvipastoris','sistemas de producao',N,RO
+A_4678.2011061500000.txt,gleissolo,'agricultura familiar',fumo,'culturas agricolas',?,adubacao,solo,N,PA
+A_4678.2011061500000.txt,gleissolo,'agricultura familiar',pimenta,horticolas,?,drenagem,'engenharia agricola',N,PA
+A_4678.2011061500000.txt,gleissolo,'agricultura familiar',pimenta,horticolas,?,adubacao,solo,N,PA
+A_4678.2011061500000.txt,gleissolo,'agricultura familiar',mandioca,'culturas agricolas',?,drenagem,'engenharia agricola',N,PA
+A_4678.2011061500000.txt,gleissolo,'agricultura familiar',mandioca,'culturas agricolas',?,adubacao,solo,N,PA
+A_4678.2011061500000.txt,gleissolo,'agricultura familiar',arroz,'culturas agricolas',?,drenagem,'engenharia agricola',N,PA
+A_4678.2011061500000.txt,gleissolo,'agricultura familiar',arroz,'culturas agricolas',?,adubacao,solo,N,PA
+A_4678.2011061500000.txt,gleissolo,'agricultura familiar',milho,'culturas agricolas',?,drenagem,'engenharia agricola',N,PA
+A_4678.2011061500000.txt,gleissolo,'agricultura familiar',milho,'culturas agricolas',?,adubacao,solo,N,PA
+A_4678.2011061500000.txt,gleissolo,'agricultura familiar',abacaxi,'culturas agricolas',?,drenagem,'engenharia agricola',N,PA
+A_4678.2011061500000.txt,gleissolo,'agricultura familiar',abacaxi,'culturas agricolas',?,adubacao,solo,N,PA
+A_4678.2011061500000.txt,gleissolo,'agricultura familiar',pimentao,horticolas,?,drenagem,'engenharia agricola',N,PA
+A_4678.2011061500000.txt,gleissolo,'agricultura familiar',pimentao,horticolas,?,drenagem,'engenharia agricola',N,PA
+A_4678.2011061500000.txt,gleissolo,'agricultura familiar',pimentao,horticolas,?,adubacao,solo,N,PA
+A_4678.2011061500000.txt,gleissolo,'agricultura familiar',pimentao,horticolas,?,adubacao,solo,N,PA
+A_4678.2011061500000.txt,gleissolo,'agricultura familiar',feijao,'culturas agricolas',?,drenagem,'engenharia agricola',N,PA
+A_4678.2011061500000.txt,gleissolo,'agricultura familiar',feijao,'culturas agricolas',?,adubacao,solo,N,PA
+A_4678.2011061500000.txt,gleissolo,'agricultura familiar',babosa,'plantas medicinais e aromaticas',?,drenagem,'engenharia agricola',N,PA
+A_314.2012061500000.txt,?,'agricultura familiar',mandioca,'culturas agricolas',?,?,?,N,PA
+A_314.2012061500000.txt,?,'agricultura familiar',feijao,'culturas agricolas',?,?,?,N,PA
+A_4718.2012061500000.txt,?,'agricultura familiar',palmeira,'arboreas madeira semente produtos',?,'cobertura vegetal',ecologia,N,PA
+A_4718.2012061500000.txt,?,mulheres,dende,?,?,'cobertura vegetal',ecologia,N,PA
+A_4718.2012061500000.txt,?,mulheres,palmeira,'arboreas madeira semente produtos',?,'cobertura vegetal',ecologia,N,PA
+A_4718.2012061500000.txt,?,trabalho,dende,?,?,'cobertura vegetal',ecologia,N,PA
+A_4718.2012061500000.txt,?,trabalho,palmeira,'arboreas madeira semente produtos',?,'cobertura vegetal',ecologia,N,PA
+A_4563.2011061500000.txt,?,'agricultura familiar',mandioca,'culturas agricolas',?,manejo,solo,N,PA
+A_4563.2011061500000.txt,?,'agricultura familiar',arroz,'culturas agricolas',?,manejo,solo,N,PA
+A_4563.2011061500000.txt,?,'agricultura familiar',milho,'culturas agricolas',?,manejo,solo,N,PA
+A_4563.2011061500000.txt,?,'agricultura familiar',pimentao,horticolas,?,manejo,solo,N,PA
+A_4563.2011061500000.txt,?,'agricultura familiar',pimentao,horticolas,?,manejo,solo,N,PA
+A_4563.2011061500000.txt,?,'agricultura familiar',trevo,horticolas,?,manejo,solo,N,PA
+A_4563.2011061500000.txt,?,trabalho,pimenta,horticolas,?,manejo,solo,N,PA
+A_4563.2011061500000.txt,?,trabalho,mandioca,'culturas agricolas',?,manejo,solo,N,PA
+A_4563.2011061500000.txt,?,trabalho,arroz,'culturas agricolas',?,manejo,solo,N,PA
+A_4563.2011061500000.txt,?,trabalho,milho,'culturas agricolas',?,manejo,solo,N,PA
+A_4563.2011061500000.txt,?,trabalho,pimentao,horticolas,?,manejo,solo,N,PA
+A_4563.2011061500000.txt,?,trabalho,pimentao,horticolas,?,manejo,solo,N,PA
+A_4563.2011061500000.txt,?,trabalho,trevo,horticolas,?,manejo,solo,N,PA
+A_5111.2014061500000.txt,?,?,?,?,peixe,?,?,N,AP
+A_580.2000061500000.txt,?,trabalho,?,?,?,?,?,N,RO
+A_2558.2007061500000.txt,?,'agricultura familiar',feijao,'culturas agricolas',?,adubacao,solo,N,PA
+A_2631.2012061500000.txt,argissolo,trabalho,cafe,?,?,'adubacao organica',planta,N,RO
+A_2631.2012061500000.txt,argissolo,trabalho,cafe,?,?,manejo,solo,N,RO
+A_2631.2012061500000.txt,argissolo,trabalho,cafe,?,?,adubacao,solo,N,RO
+A_2631.2012061500000.txt,argissolo,trabalho,cafe,?,?,safs,'sistemas de producao',N,RO
+A_2631.2012061500000.txt,argissolo,trabalho,cafe,?,?,safs,'sistemas de producao',N,RO
+A_2631.2012061500000.txt,latossolo,trabalho,cafe,?,?,'adubacao organica',solo,N,RO
+A_2631.2012061500000.txt,latossolo,trabalho,cafe,?,?,'adubacao organica',planta,N,RO
+A_2631.2012061500000.txt,latossolo,trabalho,cafe,?,?,manejo,solo,N,RO
+A_2631.2012061500000.txt,latossolo,trabalho,cafe,?,?,adubacao,solo,N,RO
+A_2631.2012061500000.txt,latossolo,trabalho,cafe,?,?,safs,'sistemas de producao',N,RO
+A_2631.2012061500000.txt,latossolo,trabalho,cafe,?,?,safs,'sistemas de producao',N,RO
+A_2631.2012061500000.txt,cambissolo,trabalho,cafe,?,?,'adubacao organica',solo,N,RO
+A_2631.2012061500000.txt,cambissolo,trabalho,cafe,?,?,'adubacao organica',planta,N,RO
+A_2631.2012061500000.txt,cambissolo,trabalho,cafe,?,?,manejo,solo,N,RO
+A_2631.2012061500000.txt,cambissolo,trabalho,cafe,?,?,adubacao,solo,N,RO
+A_2631.2012061500000.txt,cambissolo,trabalho,cafe,?,?,safs,'sistemas de producao',N,RO
+A_2631.2012061500000.txt,cambissolo,trabalho,cafe,?,?,safs,'sistemas de producao',N,RO
+A_6037.2011061500000.txt,?,trabalho,mandioca,'culturas agricolas',?,manejo,solo,N,TO
+A_6037.2011061500000.txt,?,trabalho,alho,?,?,manejo,solo,N,TO
+A_6037.2011061500000.txt,?,trabalho,leucena,'arboreas adubacaoverde e massa verde',?,manejo,solo,N,TO
+A_444.2007061500000.txt,?,'agricultura familiar',?,?,?,organico,'sistemas de producao',N,RO
+A_444.2007061500000.txt,?,'agricultura familiar',?,?,?,organicos,'sistemas de producao',N,RO
+A_444.2007061500000.txt,?,'agricultura familiar',?,?,?,organicos,'sistemas de producao',N,RO
+A_5086.2012061500000.txt,?,trabalho,?,?,?,'cobertura vegetal',ecologia,N,PA
+A_2855.2013061500000.txt,?,trabalho,?,?,?,?,?,N,RO
+A_2855.2013061500000.txt,?,trabalho,?,?,?,?,?,N,AC
+A_2855.2013061500000.txt,?,trabalho,?,?,?,?,?,N,AM
+A_5601.2001061500000.txt,?,?,arroz,'culturas agricolas',?,?,?,N,PA
+A_5601.2001061500000.txt,?,?,feijao,'culturas agricolas',?,?,?,N,PA
+A_5601.2001061500000.txt,?,?,coentro,horticolas,?,?,?,N,PA
+A_4768.2007061500000.txt,?,'agricultura familiar',babosa,'plantas medicinais e aromaticas',?,manejo,solo,N,PA
+A_4768.2007061500000.txt,?,'desenvolvimento rural sustentavel',babosa,'plantas medicinais e aromaticas',?,manejo,solo,N,PA
+A_4768.2007061500000.txt,?,'comunidades rurais',babosa,'plantas medicinais e aromaticas',?,manejo,solo,N,PA
+A_4768.2007061500000.txt,?,trabalho,babosa,'plantas medicinais e aromaticas',?,manejo,solo,N,PA
+A_3048.1964061500000.txt,latossolo,?,feijao,'culturas agricolas',?,organico,'sistemas de producao',N,PA
+A_3048.1964061500000.txt,latossolo,?,feijao,'culturas agricolas',?,'adubacao organica',solo,N,PA
+A_3048.1964061500000.txt,latossolo,?,feijao,'culturas agricolas',?,'adubacao organica',planta,N,PA
+A_3048.1964061500000.txt,latossolo,?,feijao,'culturas agricolas',?,adubacao,solo,N,PA
+A_3048.1964061500000.txt,latossolo,?,feijao,'culturas agricolas',?,organicos,'sistemas de producao',N,PA
+A_3048.1964061500000.txt,latossolo,?,feijao,'culturas agricolas',?,organicos,'sistemas de producao',N,PA
+A_2089.2010061500000.txt,latossolo,'agricultura familiar',milho,'culturas agricolas',?,organico,'sistemas de producao',N,PA
+A_2089.2010061500000.txt,latossolo,'agricultura familiar',milho,'culturas agricolas',?,'adubacao organica',solo,N,PA
+A_2089.2010061500000.txt,latossolo,'agricultura familiar',milho,'culturas agricolas',?,'adubacao organica',planta,N,PA
+A_2089.2010061500000.txt,latossolo,'agricultura familiar',milho,'culturas agricolas',?,manejo,solo,N,PA
+A_2089.2010061500000.txt,latossolo,'agricultura familiar',milho,'culturas agricolas',?,adubacao,solo,N,PA
+A_2089.2010061500000.txt,latossolo,'agricultura familiar',milho,'culturas agricolas',?,organicos,'sistemas de producao',N,PA
+A_2089.2010061500000.txt,latossolo,'agricultura familiar',milho,'culturas agricolas',?,organicos,'sistemas de producao',N,PA
+A_2089.2010061500000.txt,latossolo,'agricultura familiar',babosa,'plantas medicinais e aromaticas',?,organico,'sistemas de producao',N,PA
+A_2089.2010061500000.txt,latossolo,'agricultura familiar',babosa,'plantas medicinais e aromaticas',?,organico,'sistemas de producao',N,PA
+A_2089.2010061500000.txt,latossolo,'agricultura familiar',babosa,'plantas medicinais e aromaticas',?,'adubacao organica',solo,N,PA
+A_2089.2010061500000.txt,latossolo,'agricultura familiar',babosa,'plantas medicinais e aromaticas',?,'adubacao organica',planta,N,PA
+A_2089.2010061500000.txt,latossolo,'agricultura familiar',babosa,'plantas medicinais e aromaticas',?,manejo,solo,N,PA
+A_2089.2010061500000.txt,latossolo,'agricultura familiar',babosa,'plantas medicinais e aromaticas',?,adubacao,solo,N,PA
+A_2089.2010061500000.txt,latossolo,'agricultura familiar',babosa,'plantas medicinais e aromaticas',?,organicos,'sistemas de producao',N,PA
+A_2089.2010061500000.txt,latossolo,'agricultura familiar',babosa,'plantas medicinais e aromaticas',?,organicos,'sistemas de producao',N,PA
+A_2089.2010061500000.txt,latossolo,'agricultura familiar',sorgo,'culturas agricolas',?,organico,'sistemas de producao',N,PA
+A_2089.2010061500000.txt,latossolo,'agricultura familiar',sorgo,'culturas agricolas',?,organico,'sistemas de producao',N,PA
+A_2089.2010061500000.txt,latossolo,'agricultura familiar',sorgo,'culturas agricolas',?,'adubacao organica',solo,N,PA
+A_118.2015061500000.txt,?,'agricultura familiar',?,?,?,organico,'sistemas de producao',N,AC
+A_118.2015061500000.txt,?,'agricultura familiar',?,?,?,'producao organica',solo,N,AC
+A_118.2015061500000.txt,?,'agricultura familiar',?,?,?,'producao organica',planta,N,AC
+A_118.2015061500000.txt,?,'agricultura familiar',?,?,?,'producao organica','sistemas de producao',N,AC
+A_118.2015061500000.txt,?,'agricultura familiar',?,?,?,organicos,'sistemas de producao',N,AC
+A_118.2015061500000.txt,?,'agricultura familiar',?,?,?,organicos,'sistemas de producao',N,AC

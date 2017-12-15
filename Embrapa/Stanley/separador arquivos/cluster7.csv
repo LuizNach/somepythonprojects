@@ -1,0 +1,392 @@
+irrigacao,mandioca,?,S,RS,pequena,cluster7
+manejo,?,latossolo,S,RS,pequena,cluster7
+?,?,vertissolo,S,RS,pequena,cluster7
+'plantio direto',?,latossolo,S,RS,pequena,cluster7
+?,soja,?,S,RS,pequena,cluster7
+manejo,erva-mate,?,S,PR,pequena,cluster7
+manejo,maca,?,S,RS,pequena,cluster7
+adubacao,?,?,S,RS,pequena,cluster7
+'plantio direto',?,latossolo,S,RS,pequena,cluster7
+irrigacao,?,?,S,RS,pequena,cluster7
+'adubacao organica',?,?,S,RS,pequena,cluster7
+adubacao,banana,?,S,PR,pequena,cluster7
+irrigacao,arroz,?,S,RS,pequena,cluster7
+adubacao,?,latossolo,S,RS,pequena,cluster7
+fertilizante,?,?,S,RS,pequena,cluster7
+manejo,?,?,S,RS,pequena,cluster7
+adubacao,arroz,?,S,RS,pequena,cluster7
+adubacao,arroz,?,S,RS,pequena,cluster7
+'agricultura de precisao',maca,?,S,RS,pequena,cluster7
+adubacao,?,?,S,SC,pequena,cluster7
+irrigacao,arroz,?,S,RS,pequena,cluster7
+irrigacao,laranja,?,S,PR,pequena,cluster7
+irrigacao,mandioca,?,S,SC,pequena,cluster7
+'plantio direto',?,latossolo,S,RS,pequena,cluster7
+irrigacao,mandioca,?,S,RS,pequena,cluster7
+npk,?,?,S,RS,pequena,cluster7
+irrigacao,laranja,?,S,PR,pequena,cluster7
+irrigacao,arroz,?,S,RS,pequena,cluster7
+?,goiaba,?,S,RS,pequena,cluster7
+?,soja,latossolo,S,RS,pequena,cluster7
+irrigacao,milho,?,S,RS,pequena,cluster7
+secagem,milho,?,S,PR,pequena,cluster7
+irrigacao,laranja,?,S,PR,pequena,cluster7
+adubacao,?,?,S,RS,pequena,cluster7
+adubacao,?,?,S,SC,pequena,cluster7
+?,'batata doce',?,S,SC,pequena,cluster7
+irrigacao,cana-de-acucar,?,S,PR,pequena,cluster7
+?,soja,latossolo,S,RS,pequena,cluster7
+irrigacao,?,?,S,RS,pequena,cluster7
+adubacao,trigo,?,S,SC,pequena,cluster7
+manejo,soja,?,S,PR,pequena,cluster7
+irrigacao,laranja,?,S,PR,pequena,cluster7
+manejo,soja,?,S,SC,pequena,cluster7
+irrigacao,tomate,?,S,SC,pequena,cluster7
+manejo,?,?,S,SC,pequena,cluster7
+irrigacao,?,?,S,RS,pequena,cluster7
+irrigacao,pessego,?,S,RS,pequena,cluster7
+adubacao,feijao,?,S,PR,pequena,cluster7
+?,trigo,?,S,RS,pequena,cluster7
+irrigacao,laranja,?,S,PR,pequena,cluster7
+irrigacao,?,?,S,SC,pequena,cluster7
+irrigacao,laranja,?,S,PR,pequena,cluster7
+'irrigacao suplementar',laranja,?,S,PR,pequena,cluster7
+'adubacao organica',?,?,S,RS,pequena,cluster7
+irrigacao,mandioca,?,S,SC,pequena,cluster7
+'agricultura de precisao',soja,?,S,PR,pequena,cluster7
+adubacao,?,?,S,RS,pequena,cluster7
+adubacao,?,latossolo,S,RS,pequena,cluster7
+adubacao,?,?,S,RS,pequena,cluster7
+irrigacao,banana,?,S,SC,pequena,cluster7
+adubacao,?,?,S,SC,pequena,cluster7
+manejo,soja,?,S,PR,pequena,cluster7
+manejo,?,latossolo,S,RS,pequena,cluster7
+?,arroz,?,S,RS,pequena,cluster7
+'agricultura de precisao',soja,?,S,PR,pequena,cluster7
+'plantio direto',soja,?,S,PR,pequena,cluster7
+irrigacao,laranja,?,S,PR,pequena,cluster7
+irrigacao,mandioca,?,S,RS,pequena,cluster7
+manejo,erva-mate,?,S,PR,pequena,cluster7
+manejo,maca,?,S,RS,pequena,cluster7
+?,soja,?,S,SC,pequena,cluster7
+manejo,?,?,S,RS,pequena,cluster7
+irrigacao,laranja,?,S,PR,pequena,cluster7
+manejo,milho,?,S,PR,pequena,cluster7
+'plantio direto',soja,?,S,PR,pequena,cluster7
+adubacao,?,?,S,RS,pequena,cluster7
+'irrigacao suplementar',laranja,?,S,PR,pequena,cluster7
+?,soja,?,S,RS,pequena,cluster7
+manejo,soja,?,S,PR,pequena,cluster7
+irrigacao,mandioca,?,S,SC,pequena,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,RS,media,cluster7
+irrigacao,?,?,S,RS,media,cluster7
+irrigacao,?,?,S,RS,media,cluster7
+irrigacao,?,?,S,SC,media,cluster7
+irrigacao,?,?,S,SC,media,cluster7
+irrigacao,?,?,S,SC,media,cluster7
+irrigacao,?,?,S,SC,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,arroz,?,S,RS,media,cluster7
+irrigacao,arroz,?,S,RS,media,cluster7
+irrigacao,arroz,?,S,RS,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,tomate,?,S,SC,media,cluster7
+irrigacao,tomate,?,S,SC,media,cluster7
+irrigacao,tomate,?,S,SC,media,cluster7
+manejo,melao,?,S,SC,media,cluster7
+'manejo da cultura',melao,?,S,RS,media,cluster7
+'manejo da cultura',melao,?,S,SC,media,cluster7
+irrigacao,banana,?,S,SC,media,cluster7
+irrigacao,banana,?,S,SC,media,cluster7
+irrigacao,banana,?,S,SC,media,cluster7
+agrotoxico,arroz,?,S,RS,media,cluster7
+manejo,arroz,?,S,RS,media,cluster7
+adubacao,arroz,?,S,RS,media,cluster7
+adubacao,arroz,?,S,RS,media,cluster7
+irrigacao,maca,?,S,RS,media,cluster7
+irrigacao,maca,?,S,RS,media,cluster7
+irrigacao,maca,?,S,RS,media,cluster7
+manejo,?,?,S,SC,media,cluster7
+irrigacao,maca,?,S,RS,media,cluster7
+irrigacao,maca,?,S,RS,media,cluster7
+irrigacao,maca,?,S,RS,media,cluster7
+irrigacao,uva,?,S,RS,media,cluster7
+irrigacao,uva,?,S,RS,media,cluster7
+irrigacao,uva,?,S,RS,media,cluster7
+irrigacao,uva,?,S,RS,media,cluster7
+irrigacao,soja,?,S,RS,media,cluster7
+irrigacao,soja,?,S,RS,media,cluster7
+irrigacao,soja,?,S,RS,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+manejo,?,?,S,PR,media,cluster7
+'manejo de irrigacao',?,?,S,PR,media,cluster7
+'manejo de irrigacao',?,?,S,PR,media,cluster7
+'manejo de irrigacao',?,?,S,PR,media,cluster7
+'manejo de irrigacao',?,?,S,PR,media,cluster7
+irrigacao,?,?,S,RS,media,cluster7
+irrigacao,?,?,S,RS,media,cluster7
+irrigacao,?,?,S,RS,media,cluster7
+manejo,?,?,S,RS,media,cluster7
+'manejo de irrigacao',?,?,S,RS,media,cluster7
+'manejo de irrigacao',?,?,S,RS,media,cluster7
+'manejo de irrigacao',?,?,S,RS,media,cluster7
+'manejo de irrigacao',?,?,S,RS,media,cluster7
+manejo,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,SC,media,cluster7
+irrigacao,?,?,S,SC,media,cluster7
+irrigacao,?,?,S,SC,media,cluster7
+manejo,?,?,S,SC,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,arroz,?,S,RS,media,cluster7
+irrigacao,arroz,?,S,RS,media,cluster7
+irrigacao,arroz,?,S,RS,media,cluster7
+adubacao,arroz,?,S,RS,media,cluster7
+adubacao,arroz,?,S,RS,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+manejo,?,?,S,RS,media,cluster7
+irrigacao,banana,?,S,SC,media,cluster7
+irrigacao,banana,?,S,SC,media,cluster7
+irrigacao,banana,?,S,SC,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+agroecossistema,?,?,S,RS,media,cluster7
+agroecossistema,?,?,S,RS,media,cluster7
+manejo,?,?,S,SC,media,cluster7
+biofertilizante,?,?,S,RS,media,cluster7
+biofertilizante,?,?,S,RS,media,cluster7
+biofertilizante,?,?,S,RS,media,cluster7
+biofertilizante,?,?,S,SC,media,cluster7
+biofertilizante,?,?,S,SC,media,cluster7
+biofertilizante,?,?,S,SC,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+manejo,?,?,S,PR,media,cluster7
+'manejo de irrigacao',?,?,S,PR,media,cluster7
+'manejo de irrigacao',?,?,S,PR,media,cluster7
+'manejo de irrigacao',?,?,S,PR,media,cluster7
+'manejo de irrigacao',?,?,S,PR,media,cluster7
+irrigacao,pessego,?,S,RS,media,cluster7
+irrigacao,pessego,?,S,RS,media,cluster7
+irrigacao,pessego,?,S,RS,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+manejo,arroz,?,S,RS,media,cluster7
+adubacao,arroz,?,S,RS,media,cluster7
+adubacao,arroz,?,S,RS,media,cluster7
+'manejo da cultura',arroz,?,S,RS,media,cluster7
+'plantio direto',?,?,S,RS,media,cluster7
+'plantio direto',?,?,S,RS,media,cluster7
+manejo,?,?,S,RS,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,arroz,?,S,RS,media,cluster7
+irrigacao,arroz,?,S,RS,media,cluster7
+irrigacao,arroz,?,S,RS,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+manejo,pessego,?,S,RS,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+'manejo da cultura',?,?,S,RS,media,cluster7
+irrigacao,?,?,S,RS,media,cluster7
+irrigacao,?,?,S,RS,media,cluster7
+irrigacao,?,?,S,RS,media,cluster7
+irrigacao,?,?,S,RS,media,cluster7
+manejo,?,?,S,RS,media,cluster7
+manejo,?,?,S,RS,media,cluster7
+manejo,?,?,S,RS,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+manejo,?,latossolo,S,RS,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+irrigacao,?,?,S,PR,media,cluster7
+manejo,?,?,S,PR,media,cluster7
+'manejo de irrigacao',?,?,S,PR,media,cluster7
+'manejo de irrigacao',?,?,S,PR,media,cluster7
+'manejo de irrigacao',?,?,S,PR,media,cluster7
+'manejo de irrigacao',?,?,S,PR,media,cluster7
+irrigacao,maca,?,S,RS,grande,cluster7
+irrigacao,?,?,S,SC,grande,cluster7
+irrigacao,?,?,S,RS,grande,cluster7
+manejo,?,?,S,SC,grande,cluster7
+manejo,pessego,?,S,RS,grande,cluster7
+irrigacao,?,?,S,SC,grande,cluster7
+irrigacao,uva,?,S,RS,grande,cluster7
+adubacao,arroz,?,S,RS,grande,cluster7
+irrigacao,banana,?,S,SC,grande,cluster7
+manejo,?,?,S,SC,grande,cluster7
+irrigacao,?,?,S,RS,grande,cluster7
+irrigacao,uva,?,S,RS,grande,cluster7
+manejo,melao,?,S,SC,grande,cluster7
+biofertilizante,?,?,S,RS,grande,cluster7
+irrigacao,?,?,S,PR,grande,cluster7
+irrigacao,?,?,S,PR,grande,cluster7
+irrigacao,pessego,?,S,RS,grande,cluster7
+irrigacao,?,?,S,SC,grande,cluster7
+biofertilizante,?,?,S,RS,grande,cluster7
+adubacao,arroz,?,S,RS,grande,cluster7
+'manejo de irrigacao',?,?,S,RS,grande,cluster7
+irrigacao,uva,?,S,RS,grande,cluster7
+irrigacao,soja,?,S,RS,grande,cluster7
+'manejo de irrigacao',?,?,S,PR,grande,cluster7
+irrigacao,?,?,S,SC,grande,cluster7
+irrigacao,arroz,?,S,RS,grande,cluster7
+irrigacao,?,?,S,RS,grande,cluster7
+'manejo de irrigacao',?,?,S,PR,grande,cluster7
+irrigacao,uva,?,S,RS,grande,cluster7
+'manejo de irrigacao',?,?,S,RS,grande,cluster7
+irrigacao,?,?,S,PR,grande,cluster7
+'manejo da cultura',arroz,?,S,RS,grande,cluster7
+irrigacao,?,?,S,RS,grande,cluster7
+irrigacao,?,?,S,RS,grande,cluster7
+irrigacao,tomate,?,S,SC,grande,cluster7
+irrigacao,?,?,S,SC,grande,cluster7
+irrigacao,?,?,S,PR,grande,cluster7
+'manejo da cultura',melao,?,S,RS,grande,cluster7
+adubacao,arroz,?,S,RS,grande,cluster7
+irrigacao,arroz,?,S,RS,grande,cluster7
+manejo,arroz,?,S,RS,grande,cluster7
+manejo,?,?,S,RS,grande,cluster7
+irrigacao,?,?,S,SC,grande,cluster7
+irrigacao,banana,?,S,SC,grande,cluster7
+'manejo de irrigacao',?,?,S,PR,grande,cluster7
+irrigacao,?,?,S,PR,grande,cluster7
+manejo,pessego,?,S,RS,grande,cluster7
+adubacao,arroz,?,S,RS,grande,cluster7
+manejo,?,?,S,RS,grande,cluster7
+manejo,?,latossolo,S,RS,grande,cluster7
+irrigacao,?,?,S,RS,grande,cluster7
+irrigacao,?,?,S,SC,grande,cluster7
+irrigacao,?,?,S,PR,grande,cluster7
+irrigacao,tomate,?,S,SC,grande,cluster7
+irrigacao,arroz,?,S,RS,grande,cluster7
+'manejo de irrigacao',?,?,S,RS,grande,cluster7
+irrigacao,banana,?,S,SC,grande,cluster7
+irrigacao,?,?,S,PR,grande,cluster7
+'manejo da cultura',melao,?,S,RS,grande,cluster7
+'manejo da cultura',?,?,S,RS,grande,cluster7
+irrigacao,pessego,?,S,RS,grande,cluster7
+irrigacao,pessego,?,S,RS,grande,cluster7
+irrigacao,maca,?,S,RS,grande,cluster7
+adubacao,arroz,?,S,RS,grande,cluster7
+irrigacao,arroz,?,S,RS,grande,cluster7
+adubacao,arroz,?,S,RS,grande,cluster7
+'manejo de irrigacao',?,?,S,PR,grande,cluster7
+irrigacao,?,?,S,PR,grande,cluster7
+irrigacao,pessego,?,S,RS,grande,cluster7
+irrigacao,?,?,S,RS,grande,cluster7
+irrigacao,tomate,?,S,SC,grande,cluster7
+irrigacao,soja,?,S,RS,grande,cluster7
+irrigacao,?,?,S,PR,grande,cluster7
+irrigacao,banana,?,S,SC,grande,cluster7
+irrigacao,?,?,S,PR,grande,cluster7
+irrigacao,soja,?,S,RS,grande,cluster7
+irrigacao,uva,?,S,RS,grande,cluster7
+agroecossistema,?,?,S,RS,grande,cluster7
+adubacao,arroz,?,S,RS,grande,cluster7
+irrigacao,?,?,S,PR,grande,cluster7
+'manejo da cultura',melao,?,S,SC,grande,cluster7
+irrigacao,?,?,S,RS,grande,cluster7
+irrigacao,?,?,S,RS,grande,cluster7
+irrigacao,maca,?,S,RS,grande,cluster7
+'manejo de irrigacao',?,?,S,RS,grande,cluster7
+'manejo de irrigacao',?,?,S,RS,grande,cluster7
+irrigacao,?,?,S,PR,grande,cluster7
+manejo,?,?,S,RS,grande,cluster7
+irrigacao,?,?,S,SC,grande,cluster7
+manejo,?,?,S,PR,grande,cluster7
+biofertilizante,?,?,S,SC,grande,cluster7
+irrigacao,?,?,S,PR,grande,cluster7
+agrotoxico,arroz,?,S,RS,grande,cluster7
+irrigacao,?,?,S,SC,grande,cluster7
+irrigacao,?,?,S,RS,grande,cluster7
+irrigacao,?,?,S,SC,grande,cluster7
+irrigacao,?,?,S,SC,grande,cluster7
+irrigacao,arroz,?,S,RS,grande,cluster7
+irrigacao,?,?,S,SC,grande,cluster7
+'manejo de irrigacao',?,?,S,PR,grande,cluster7
+irrigacao,?,?,S,PR,grande,cluster7
+irrigacao,?,?,S,SC,grande,cluster7
+manejo,arroz,?,S,RS,grande,cluster7
+irrigacao,?,?,S,SC,grande,cluster7
+adubacao,arroz,?,S,RS,grande,cluster7
+irrigacao,arroz,?,S,RS,grande,cluster7
+irrigacao,maca,?,S,RS,grande,cluster7
+adubacao,arroz,?,S,RS,grande,cluster7
+irrigacao,arroz,?,S,RS,grande,cluster7
+irrigacao,arroz,?,S,RS,grande,cluster7
+irrigacao,?,?,S,SC,grande,cluster7
+irrigacao,maca,?,S,RS,grande,cluster7
+irrigacao,?,?,S,PR,grande,cluster7
+agroecossistema,?,?,S,RS,grande,cluster7
+irrigacao,maca,?,S,RS,grande,cluster7
+biofertilizante,?,?,S,RS,grande,cluster7
+irrigacao,pessego,?,S,RS,grande,cluster7
+manejo,?,?,S,SC,grande,cluster7
+irrigacao,arroz,?,S,RS,grande,cluster7
+irrigacao,soja,?,S,RS,grande,cluster7
+manejo,?,?,S,PR,grande,cluster7
+'manejo da cultura',melao,?,S,SC,grande,cluster7
+irrigacao,maca,?,S,RS,grande,cluster7
+agrotoxico,arroz,?,S,RS,grande,cluster7
+manejo,?,?,S,RS,grande,cluster7
+biofertilizante,?,?,S,SC,grande,cluster7
+biofertilizante,?,?,S,RS,grande,cluster7
+irrigacao,?,?,S,PR,grande,cluster7
+manejo,?,?,S,SC,grande,cluster7
+irrigacao,?,?,S,SC,grande,cluster7
+manejo,?,?,S,PR,grande,cluster7
+irrigacao,?,?,S,PR,grande,cluster7
+irrigacao,banana,?,S,SC,grande,cluster7
+irrigacao,?,?,S,RS,grande,cluster7
+manejo,arroz,?,S,RS,grande,cluster7
+irrigacao,banana,?,S,SC,grande,cluster7
+irrigacao,pessego,?,S,RS,grande,cluster7
+irrigacao,banana,?,S,SC,grande,cluster7
+manejo,?,?,S,RS,grande,cluster7
+irrigacao,uva,?,S,RS,grande,cluster7
+adubacao,arroz,?,S,RS,grande,cluster7
+agroecossistema,?,?,S,RS,grande,cluster7
+biofertilizante,?,?,S,RS,grande,cluster7
+irrigacao,?,?,S,SC,grande,cluster7
+irrigacao,?,?,S,RS,grande,cluster7
+'manejo de irrigacao',?,?,S,RS,grande,cluster7
+irrigacao,?,?,S,RS,grande,cluster7
+'plantio direto',?,?,S,RS,grande,cluster7
+irrigacao,?,?,S,RS,grande,cluster7

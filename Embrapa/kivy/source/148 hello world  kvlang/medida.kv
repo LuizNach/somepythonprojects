@@ -1,0 +1,28 @@
+
+<RootWidget>:
+
+    Button:
+        size_hint: None, None #usado pra definir como percentual
+        size: 350, 50
+        x: 100
+        y: 350
+        text: "px"
+
+    Button:
+        size_hint: None, None
+        size: dp(350), dp(50)
+        pos: dp(100), dp(270)
+        text: "dp"
+
+    Button:
+        size_hint: .6, .09
+        pos_hint: {"x": 0.2, "y": .8}
+        text: "%"
+
+    Button:
+        size_hint_x: None
+        size_hint_y: None
+        width: 400
+        height: 100
+        pos_hint: {"x": 1/6 , "y": .1}
+        text: "teste"

@@ -1,0 +1,45 @@
+=== Classifier model (full training set) ===
+
+J48 pruned tree
+------------------
+
+petalwidth <= 0.6: Iris-setosa (50.0)
+petalwidth > 0.6
+|   petalwidth <= 1.7
+|   |   petallength <= 4.9: Iris-versicolor (48.0/1.0)
+|   |   petallength > 4.9
+|   |   |   petalwidth <= 1.5: Iris-virginica (3.0)
+|   |   |   petalwidth > 1.5: Iris-versicolor (3.0/1.0)
+|   petalwidth > 1.7: Iris-virginica (46.0/1.0)
+
+
+X < 49.0
+|   Y<30
+|   |   Z>3: pera
+|   |   Z=2: mamao
+|   |   Z=1: maca
+|   Y>31
+|   |   Z>=50: pera
+|   |   Z=49: abacate
+|   |   Z<49: abacaxi
+X = 50.0: banana
+X > 50.0
+|   Z='A'
+|   |   Y='K': bergamota
+|   Z='B'
+|   |   Y='K': bergamota
+|   |   Y='W': mixirica
+|   Z='C': paçoca
+
+
+
+petalwidth <= 0.6: Iris-setosa (50.0)
+petalwidth > 0.6
+|   petalwidth <= 1.7
+|   |   petallength <= 4.9: Iris-versicolor (48.0/1.0)
+|   |   petallength > 4.9
+|   |   |   petalwidth <= 1.5: Iris-virginica (3.0)
+|   |   |   petalwidth > 1.5: Iris-versicolor (3.0/1.0)
+|   petalwidth > 1.7: Iris-virginica (46.0/1.0)
+
+

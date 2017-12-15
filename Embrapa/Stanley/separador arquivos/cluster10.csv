@@ -1,0 +1,462 @@
+adubacao,pimentao,?,N,RR,pequena,cluster10
+manejo,abacaxi,?,N,AC,pequena,cluster10
+adubacao,soja,latossolo,N,PA,pequena,cluster10
+'melhoramento genetico',mandioca,?,N,AC,pequena,cluster10
+manejo,uva,?,N,TO,pequena,cluster10
+?,tomate,?,N,PA,pequena,cluster10
+adubacao,?,?,N,AM,pequena,cluster10
+adubacao,soja,latossolo,N,PA,pequena,cluster10
+adubacao,mandioca,?,N,PA,pequena,cluster10
+?,feijao,?,N,AP,pequena,cluster10
+manejo,cafe,?,N,AC,pequena,cluster10
+manejo,pimenta,?,N,AC,pequena,cluster10
+?,melao,?,N,PA,pequena,cluster10
+adubacao,?,?,N,AC,pequena,cluster10
+?,melao,?,N,TO,pequena,cluster10
+?,abacaxi,?,N,PA,pequena,cluster10
+irrigacao,feijao,?,N,RR,pequena,cluster10
+'sistema convencional',milho,argissolo,N,AC,pequena,cluster10
+irrigacao,pimentao,?,N,RR,pequena,cluster10
+'manejo do ambiente',pimentao,?,N,AM,pequena,cluster10
+irrigacao,pimenta,?,N,AM,pequena,cluster10
+genotipo,pimenta,?,N,AC,pequena,cluster10
+irrigacao,cevada,?,N,AM,pequena,cluster10
+?,uva,?,N,PA,pequena,cluster10
+?,mandioca,?,N,AM,pequena,cluster10
+manejo,mandioca,?,N,AC,pequena,cluster10
+irrigacao,pimenta,?,N,AM,pequena,cluster10
+manejo,?,latossolo,N,PA,pequena,cluster10
+aracao,?,?,N,AM,pequena,cluster10
+irrigacao,feijao,?,N,RR,pequena,cluster10
+fertilizante,?,?,N,AM,pequena,cluster10
+adubacao,milho,?,N,PA,pequena,cluster10
+manejo,sorgo,?,N,PA,pequena,cluster10
+'plantio direto',sorgo,?,N,RO,pequena,cluster10
+aracao,milho,latossolo,N,RO,pequena,cluster10
+manejo,cafe,?,N,AC,pequena,cluster10
+'plantio direto',milho,?,N,AC,pequena,cluster10
+manejo,nogueira,?,N,AC,pequena,cluster10
+manejo,arroz,?,N,AM,pequena,cluster10
+?,melao,?,N,PA,pequena,cluster10
+adubacao,arroz,?,N,PA,pequena,cluster10
+manejo,soja,?,N,PA,pequena,cluster10
+'plantio direto',soja,?,N,PA,pequena,cluster10
+manejo,pimentao,?,N,AM,pequena,cluster10
+?,pimenta,?,N,AC,pequena,cluster10
+aracao,feijao,latossolo,N,RO,pequena,cluster10
+irrigacao,feijao,?,N,RR,pequena,cluster10
+?,pimenta,?,N,AC,pequena,cluster10
+manejo,?,?,N,AM,pequena,cluster10
+irrigacao,pimenta,?,N,AM,pequena,cluster10
+adubacao,feijao,?,N,AC,pequena,cluster10
+adubacao,mamona,latossolo,N,PA,pequena,cluster10
+'plantio direto',milho,argissolo,N,AC,pequena,cluster10
+irrigacao,pimenta,?,N,AM,pequena,cluster10
+manejo,soja,?,N,PA,pequena,cluster10
+manejo,abacaxi,?,N,AC,pequena,cluster10
+adubacao,soja,latossolo,N,PA,pequena,cluster10
+?,melao,argissolo,N,PA,pequena,cluster10
+'manejo do ambiente',pimentao,?,N,AM,pequena,cluster10
+manejo,melao,?,N,TO,pequena,cluster10
+manejo,manga,?,N,PA,pequena,cluster10
+'manejo do solo',feijao,?,N,AC,pequena,cluster10
+irrigacao,pimentao,?,N,RR,pequena,cluster10
+adubacao,nogueira,?,N,AC,pequena,cluster10
+irrigacao,feijao,?,N,RR,pequena,cluster10
+?,manga,?,N,PA,pequena,cluster10
+?,seringueira,?,N,TO,pequena,cluster10
+manejo,?,?,N,AM,pequena,cluster10
+'plantio direto',feijao,?,N,AC,pequena,cluster10
+irrigacao,pimentao,?,N,RR,pequena,cluster10
+adubacao,?,?,N,AC,pequena,cluster10
+aracao,arroz,latossolo,N,RO,pequena,cluster10
+adubacao,cafe,?,N,RO,pequena,cluster10
+irrigacao,feijao,?,N,RR,pequena,cluster10
+'plantio direto',arroz,latossolo,N,PA,pequena,cluster10
+irrigacao,cana-de-acucar,?,N,PA,pequena,cluster10
+irrigacao,feijao,?,N,RR,pequena,cluster10
+manejo,manga,?,N,TO,pequena,cluster10
+adubacao,feijao,?,N,AC,pequena,cluster10
+adubacao,mandioca,?,N,PA,pequena,cluster10
+'manejo do solo',soja,?,N,AM,pequena,cluster10
+manejo,?,?,N,AM,pequena,cluster10
+irrigacao,feijao,?,N,RR,pequena,cluster10
+adubacao,pimentao,?,N,RR,pequena,cluster10
+'manejo do solo',arroz,?,N,AC,pequena,cluster10
+manejo,mandioca,?,N,AM,pequena,cluster10
+'manejo de irrigacao',cevada,?,N,AM,pequena,cluster10
+'manejo do ambiente',pimentao,?,N,AM,pequena,cluster10
+irrigacao,cana-de-acucar,?,N,PA,pequena,cluster10
+adubacao,feijao,latossolo,N,RR,pequena,cluster10
+manejo,cevada,?,N,AM,pequena,cluster10
+adubacao,milho,?,N,AC,pequena,cluster10
+irrigacao,feijao,?,N,RR,pequena,cluster10
+adubacao,nogueira,?,N,AC,pequena,cluster10
+adubacao,arroz,?,N,PA,pequena,cluster10
+?,nogueira,?,N,PA,pequena,cluster10
+irrigacao,melancia,?,N,RR,pequena,cluster10
+germoplasma,mandioca,?,N,AC,pequena,cluster10
+irrigacao,pimentao,?,N,RR,pequena,cluster10
+adubacao,abacaxi,?,N,TO,pequena,cluster10
+?,seringueira,?,N,AC,pequena,cluster10
+agroecossistema,?,?,N,PA,pequena,cluster10
+'manejo de irrigacao',cevada,?,N,AM,pequena,cluster10
+'manejo de irrigacao',cevada,?,N,AM,pequena,cluster10
+?,mandioca,?,N,PA,pequena,cluster10
+'plantio direto',arroz,?,N,AM,pequena,cluster10
+irrigacao,pimentao,?,N,RR,pequena,cluster10
+?,feijao,?,N,AP,pequena,cluster10
+?,soja,?,N,RO,pequena,cluster10
+agroecossistema,?,?,N,PA,pequena,cluster10
+'manejo de irrigacao',cevada,?,N,AM,pequena,cluster10
+irrigacao,pimenta,?,N,AM,pequena,cluster10
+adubacao,arroz,latossolo,N,PA,pequena,cluster10
+adubacao,nogueira,?,N,AC,pequena,cluster10
+manejo,pimentao,?,N,AM,pequena,cluster10
+?,mamona,latossolo,N,TO,pequena,cluster10
+?,pimenta,?,N,AC,pequena,cluster10
+biofertilizante,melao,?,N,TO,pequena,cluster10
+'fertilizante fosfatado',feijao,latossolo,N,RR,pequena,cluster10
+fertilizante,arroz,?,N,AP,pequena,cluster10
+aracao,?,?,N,AM,pequena,cluster10
+manejo,abacaxi,?,N,AC,pequena,cluster10
+?,banana,latossolo,N,AM,pequena,cluster10
+?,cana-de-acucar,?,N,PA,pequena,cluster10
+irrigacao,cevada,?,N,AM,pequena,cluster10
+adubacao,pimentao,?,N,RR,pequena,cluster10
+irrigacao,nogueira,?,N,AC,pequena,cluster10
+manejo,?,?,N,AC,pequena,cluster10
+fertilizante,soja,latossolo,N,PA,pequena,cluster10
+'adubacao por cobertura',pimentao,?,N,RR,pequena,cluster10
+'manejo do solo',?,argissolo,N,PA,pequena,cluster10
+manejo,abacaxi,?,N,AC,pequena,cluster10
+irrigacao,pimenta,?,N,AM,pequena,cluster10
+'plantio direto',milho,?,N,RO,pequena,cluster10
+manejo,?,?,N,TO,pequena,cluster10
+manejo,milho,?,N,AM,pequena,cluster10
+?,tomate,?,N,TO,pequena,cluster10
+'plantio direto',milho,?,N,AC,pequena,cluster10
+?,arroz,?,N,AP,pequena,cluster10
+adubacao,milho,?,N,AC,pequena,cluster10
+'manejo do ambiente',pimentao,?,N,AM,pequena,cluster10
+irrigacao,feijao,?,N,RR,pequena,cluster10
+'plantio direto',arroz,?,N,AM,pequena,cluster10
+'manejo do ambiente',pimentao,?,N,AM,pequena,cluster10
+'irrigacao localizada',maracuja,?,N,AC,pequena,cluster10
+adubacao,abacaxi,?,N,PA,pequena,cluster10
+?,melao,argissolo,N,TO,pequena,cluster10
+'plantio direto',arroz,latossolo,N,PA,pequena,cluster10
+manejo,?,latossolo,N,AM,pequena,cluster10
+'adubacao organica',alho,?,N,PA,pequena,cluster10
+manejo,?,?,N,AP,pequena,cluster10
+?,nogueira,?,N,AC,pequena,cluster10
+irrigacao,cevada,?,N,AM,pequena,cluster10
+manejo,abacaxi,?,N,AC,pequena,cluster10
+'variabilidade genetica',?,?,N,PA,pequena,cluster10
+'irrigacao por aspersao',cebola,?,N,TO,pequena,cluster10
+?,melancia,?,N,RO,pequena,cluster10
+'manejo do ambiente',pimentao,?,N,AM,pequena,cluster10
+?,arroz,?,N,AC,pequena,cluster10
+manejo,milho,?,N,AC,pequena,cluster10
+manejo,banana,?,N,AC,pequena,cluster10
+manejo,arroz,latossolo,N,PA,pequena,cluster10
+adubacao,amendoim,?,N,PA,pequena,cluster10
+manejo,?,?,N,AP,pequena,cluster10
+'melhoramento genetico',abacaxi,?,N,AC,pequena,cluster10
+'manejo do solo',?,latossolo,N,AM,pequena,cluster10
+adubacao,milho,?,N,AC,pequena,cluster10
+manejo,cafe,?,N,AC,pequena,cluster10
+adubacao,soja,?,N,PA,pequena,cluster10
+manejo,?,?,N,AC,pequena,cluster10
+?,uva,?,N,PA,pequena,cluster10
+'plantio direto',?,?,N,PA,pequena,cluster10
+adubacao,nogueira,?,N,AC,pequena,cluster10
+manejo,manga,?,N,PA,pequena,cluster10
+?,mandioca,?,N,AM,pequena,cluster10
+manejo,?,argissolo,N,TO,pequena,cluster10
+'plantio direto',soja,?,N,AM,pequena,cluster10
+manejo,arroz,?,N,RR,pequena,cluster10
+'melhoramento genetico',milho,?,N,PA,pequena,cluster10
+manejo,mandioca,?,N,AC,pequena,cluster10
+'manejo de irrigacao',cevada,?,N,AM,pequena,cluster10
+'adubacao organica',banana,?,N,PA,pequena,cluster10
+aracao,arroz,latossolo,N,RO,pequena,cluster10
+'manejo do ambiente',pimentao,?,N,AM,pequena,cluster10
+?,tomate,?,N,TO,pequena,cluster10
+irrigacao,feijao,?,N,RR,pequena,cluster10
+manejo,nogueira,?,N,AC,pequena,cluster10
+'plantio direto',milho,?,N,RO,pequena,cluster10
+irrigacao,melancia,?,N,RR,pequena,cluster10
+manejo,?,latossolo,N,AM,pequena,cluster10
+irrigacao,pimenta,?,N,AM,pequena,cluster10
+irrigacao,cana-de-acucar,?,N,PA,pequena,cluster10
+'manejo do solo',arroz,?,N,AM,pequena,cluster10
+adubacao,?,?,N,AM,pequena,cluster10
+manejo,pimenta,?,N,AC,pequena,cluster10
+'plantio direto',sorgo,?,N,PA,pequena,cluster10
+irrigacao,feijao,?,N,RR,pequena,cluster10
+manejo,arroz,?,N,AC,pequena,cluster10
+'manejo do solo',arroz,?,N,AM,pequena,cluster10
+?,arroz,?,N,RO,pequena,cluster10
+manejo,?,?,N,AC,pequena,cluster10
+irrigacao,cevada,?,N,AM,pequena,cluster10
+irrigacao,pimentao,?,N,RR,pequena,cluster10
+'melhoramento genetico',banana,?,N,AC,pequena,cluster10
+irrigacao,cana-de-acucar,?,N,PA,pequena,cluster10
+'irrigacao por aspersao',cebola,?,N,TO,pequena,cluster10
+'plantio direto',soja,latossolo,N,PA,pequena,cluster10
+irrigacao,feijao,?,N,RR,pequena,cluster10
+'plantio direto',milho,?,N,RO,pequena,cluster10
+adubacao,arroz,?,N,PA,pequena,cluster10
+irrigacao,pimentao,?,N,RR,pequena,cluster10
+'plantio direto',arroz,?,N,AC,pequena,cluster10
+adubacao,arroz,?,N,AP,pequena,cluster10
+'plantio direto',milho,?,N,AC,pequena,cluster10
+manejo,mandioca,?,N,AC,pequena,cluster10
+adubacao,maracuja,?,N,AC,pequena,cluster10
+?,pimenta,?,N,AC,pequena,cluster10
+?,uva,?,N,PA,pequena,cluster10
+aracao,mandioca,latossolo,N,RO,pequena,cluster10
+?,cana-de-acucar,?,N,PA,pequena,cluster10
+?,girassol,?,N,PA,pequena,cluster10
+'plantio direto',milho,?,N,PA,pequena,cluster10
+'irrigacao por aspersao',cebola,?,N,TO,pequena,cluster10
+irrigacao,pimenta,?,N,AM,pequena,cluster10
+'irrigacao localizada',nogueira,?,N,AC,pequena,cluster10
+'manejo do ambiente',pimentao,?,N,AM,pequena,cluster10
+adubacao,arroz,latossolo,N,PA,pequena,cluster10
+aracao,feijao,latossolo,N,RO,pequena,cluster10
+?,arroz,?,N,RO,pequena,cluster10
+adubacao,mandioca,?,N,AC,pequena,cluster10
+'irrigacao por aspersao',cebola,?,N,PA,pequena,cluster10
+?,uva,argissolo,N,TO,pequena,cluster10
+?,cana-de-acucar,?,N,AM,pequena,cluster10
+aracao,mandioca,latossolo,N,RO,pequena,cluster10
+irrigacao,pimentao,?,N,RR,pequena,cluster10
+manejo,?,?,N,PA,pequena,cluster10
+manejo,milho,?,N,PA,pequena,cluster10
+manejo,banana,?,N,AC,pequena,cluster10
+manejo,melao,?,N,PA,pequena,cluster10
+manejo,cevada,?,N,AM,pequena,cluster10
+'adubacao mineral',alface,?,N,AC,pequena,cluster10
+irrigacao,?,?,N,PA,media,cluster10
+irrigacao,?,?,N,PA,media,cluster10
+irrigacao,?,?,N,PA,media,cluster10
+irrigacao,?,?,N,PA,media,cluster10
+manejo,?,?,N,TO,media,cluster10
+manejo,?,?,N,PA,media,cluster10
+manejo,?,?,N,AM,media,cluster10
+manejo,?,?,N,PA,media,cluster10
+manejo,?,?,N,RO,media,cluster10
+manejo,?,?,N,AC,media,cluster10
+manejo,?,?,N,AM,media,cluster10
+'plantio direto',?,?,N,PA,media,cluster10
+manejo,arroz,?,N,RR,media,cluster10
+irrigacao,melancia,?,N,RR,media,cluster10
+irrigacao,melancia,?,N,RR,media,cluster10
+irrigacao,melancia,?,N,RR,media,cluster10
+manejo,?,?,N,PA,media,cluster10
+manejo,melao,?,N,PA,media,cluster10
+'manejo da cultura',melao,?,N,PA,media,cluster10
+manejo,?,?,N,PA,media,cluster10
+'manejo do solo',?,latossolo,N,AM,media,cluster10
+manejo,?,latossolo,N,AM,media,cluster10
+manejo,?,?,N,TO,media,cluster10
+manejo,?,?,N,PA,media,cluster10
+manejo,pimentao,?,N,AM,media,cluster10
+'manejo do ambiente',pimentao,?,N,AM,media,cluster10
+'manejo do ambiente',pimentao,?,N,AM,media,cluster10
+'manejo do ambiente',pimentao,?,N,AM,media,cluster10
+'manejo do ambiente',pimentao,?,N,AM,media,cluster10
+manejo,?,argissolo,N,RR,media,cluster10
+manejo,?,?,N,AM,media,cluster10
+irrigacao,cevada,?,N,AM,media,cluster10
+irrigacao,cevada,?,N,AM,media,cluster10
+irrigacao,cevada,?,N,AM,media,cluster10
+manejo,cevada,?,N,AM,media,cluster10
+'manejo de irrigacao',cevada,?,N,AM,media,cluster10
+'manejo de irrigacao',cevada,?,N,AM,media,cluster10
+'manejo de irrigacao',cevada,?,N,AM,media,cluster10
+'manejo de irrigacao',cevada,?,N,AM,media,cluster10
+'manejo nos cultivos',soja,?,N,PA,media,cluster10
+'manejo nos cultivos',soja,?,N,PA,media,cluster10
+adubacao,soja,?,N,PA,media,cluster10
+adubacao,soja,?,N,PA,media,cluster10
+manejo,?,?,N,PA,media,cluster10
+'manejo de agua',?,?,N,TO,media,cluster10
+'manejo de agua',?,?,N,PA,media,cluster10
+'manejo de agua',uva,?,N,TO,media,cluster10
+'manejo de agua',uva,?,N,PA,media,cluster10
+'plantio direto',soja,latossolo,N,PA,media,cluster10
+'plantio direto',arroz,latossolo,N,PA,media,cluster10
+'plantio direto',arroz,latossolo,N,PA,media,cluster10
+manejo,soja,latossolo,N,PA,media,cluster10
+manejo,arroz,latossolo,N,PA,media,cluster10
+fertilizante,soja,latossolo,N,PA,media,cluster10
+fertilizante,soja,latossolo,N,PA,media,cluster10
+fertilizante,soja,latossolo,N,PA,media,cluster10
+fertilizante,arroz,latossolo,N,PA,media,cluster10
+fertilizante,arroz,latossolo,N,PA,media,cluster10
+fertilizante,arroz,latossolo,N,PA,media,cluster10
+adubacao,soja,latossolo,N,PA,media,cluster10
+adubacao,soja,latossolo,N,PA,media,cluster10
+adubacao,arroz,latossolo,N,PA,media,cluster10
+adubacao,arroz,latossolo,N,PA,media,cluster10
+irrigacao,cana-de-acucar,?,N,PA,media,cluster10
+irrigacao,cana-de-acucar,?,N,PA,media,cluster10
+irrigacao,cana-de-acucar,?,N,PA,media,cluster10
+manejo,?,?,N,PA,media,cluster10
+biofertilizante,?,?,N,PA,media,cluster10
+biofertilizante,?,?,N,PA,media,cluster10
+biofertilizante,?,?,N,PA,media,cluster10
+manejo,?,?,N,RR,media,cluster10
+'manejo dos recursos hidricos',?,?,N,PA,media,cluster10
+manejo,?,?,N,PA,media,cluster10
+'melhoramento genetico',abacaxi,?,N,AC,media,cluster10
+'melhoramento genetico',banana,?,N,AC,media,cluster10
+'melhoramento genetico',mandioca,?,N,AC,media,cluster10
+manejo,cafe,?,N,AC,media,cluster10
+manejo,abacaxi,?,N,AC,media,cluster10
+manejo,banana,?,N,AC,media,cluster10
+manejo,mandioca,?,N,AC,media,cluster10
+manejo,arroz,?,N,RR,media,cluster10
+manejo,uva,?,N,TO,media,cluster10
+manejo,uva,?,N,PA,media,cluster10
+'melhoramento genetico',arroz,?,N,PA,media,cluster10
+?,pimenta,?,N,AC,media,cluster10
+manejo,arroz,?,N,RR,media,cluster10
+manejo,?,argissolo,N,RO,media,cluster10
+'manejo de agua',?,?,N,PA,media,cluster10
+irrigacao,?,?,N,PA,media,cluster10
+irrigacao,?,?,N,PA,media,cluster10
+irrigacao,?,?,N,PA,media,cluster10
+irrigacao,?,?,N,PA,media,cluster10
+irrigacao,?,?,N,PA,media,cluster10
+irrigacao,?,?,N,PA,media,cluster10
+irrigacao,?,?,N,PA,media,cluster10
+manejo,?,argissolo,N,RR,grande,cluster10
+manejo,?,?,N,AM,grande,cluster10
+manejo,soja,latossolo,N,PA,grande,cluster10
+adubacao,arroz,latossolo,N,PA,grande,cluster10
+'manejo de irrigacao',cevada,?,N,AM,grande,cluster10
+manejo,uva,?,N,TO,grande,cluster10
+irrigacao,melancia,?,N,RR,grande,cluster10
+manejo,?,?,N,AM,grande,cluster10
+biofertilizante,?,?,N,PA,grande,cluster10
+'manejo do ambiente',pimentao,?,N,AM,grande,cluster10
+'melhoramento genetico',abacaxi,?,N,AC,grande,cluster10
+'plantio direto',arroz,latossolo,N,PA,grande,cluster10
+manejo,arroz,?,N,RR,grande,cluster10
+adubacao,arroz,latossolo,N,PA,grande,cluster10
+'manejo de irrigacao',cevada,?,N,AM,grande,cluster10
+'manejo de irrigacao',cevada,?,N,AM,grande,cluster10
+irrigacao,?,?,N,PA,grande,cluster10
+?,?,latossolo,N,AM,grande,cluster10
+manejo,?,?,N,PA,grande,cluster10
+'manejo de irrigacao',cevada,?,N,AM,grande,cluster10
+irrigacao,cevada,?,N,AM,grande,cluster10
+'plantio direto',arroz,latossolo,N,PA,grande,cluster10
+irrigacao,melancia,?,N,RR,grande,cluster10
+'manejo de agua',?,?,N,TO,grande,cluster10
+'melhoramento genetico',mandioca,?,N,AC,grande,cluster10
+'melhoramento genetico',abacaxi,?,N,AC,grande,cluster10
+manejo,arroz,?,N,RR,grande,cluster10
+fertilizante,soja,latossolo,N,PA,grande,cluster10
+irrigacao,?,?,N,PA,grande,cluster10
+'manejo de agua',?,?,N,PA,grande,cluster10
+manejo,uva,?,N,PA,grande,cluster10
+biofertilizante,?,?,N,PA,grande,cluster10
+manejo,?,?,N,PA,grande,cluster10
+irrigacao,?,?,N,PA,grande,cluster10
+manejo,?,?,N,PA,grande,cluster10
+irrigacao,cana-de-acucar,?,N,PA,grande,cluster10
+fertilizante,soja,latossolo,N,PA,grande,cluster10
+manejo,arroz,?,N,RR,grande,cluster10
+manejo,mandioca,?,N,AC,grande,cluster10
+'manejo de agua',?,?,N,PA,grande,cluster10
+manejo,?,?,N,PA,grande,cluster10
+biofertilizante,?,?,N,PA,grande,cluster10
+adubacao,soja,latossolo,N,PA,grande,cluster10
+manejo,abacaxi,?,N,AC,grande,cluster10
+manejo,?,?,N,PA,grande,cluster10
+manejo,melao,?,N,PA,grande,cluster10
+manejo,abacaxi,?,N,AC,grande,cluster10
+?,pimenta,?,N,AC,grande,cluster10
+'manejo de agua',?,?,N,PA,grande,cluster10
+'manejo de agua',?,?,N,TO,grande,cluster10
+manejo,?,?,N,AM,grande,cluster10
+manejo,cafe,?,N,AC,grande,cluster10
+'manejo de agua',?,?,N,TO,grande,cluster10
+'plantio direto',arroz,latossolo,N,PA,grande,cluster10
+manejo,?,?,N,PA,grande,cluster10
+manejo,melao,?,N,PA,grande,cluster10
+irrigacao,?,?,N,PA,grande,cluster10
+irrigacao,?,?,N,PA,grande,cluster10
+manejo,banana,?,N,AC,grande,cluster10
+manejo,?,?,N,PA,grande,cluster10
+manejo,?,?,N,RR,grande,cluster10
+irrigacao,cana-de-acucar,?,N,PA,grande,cluster10
+manejo,?,?,N,PA,grande,cluster10
+irrigacao,melancia,?,N,RR,grande,cluster10
+irrigacao,cana-de-acucar,?,N,PA,grande,cluster10
+biofertilizante,?,?,N,PA,grande,cluster10
+'manejo de irrigacao',cevada,?,N,AM,grande,cluster10
+irrigacao,cana-de-acucar,?,N,PA,grande,cluster10
+'manejo do ambiente',pimentao,?,N,AM,grande,cluster10
+manejo,uva,?,N,PA,grande,cluster10
+?,pimenta,?,N,AC,grande,cluster10
+'manejo de irrigacao',cevada,?,N,AM,grande,cluster10
+'manejo do ambiente',pimentao,?,N,AM,grande,cluster10
+irrigacao,melancia,?,N,RR,grande,cluster10
+'manejo de agua',?,?,N,TO,grande,cluster10
+manejo,pimentao,?,N,AM,grande,cluster10
+'manejo do ambiente',pimentao,?,N,AM,grande,cluster10
+'manejo do ambiente',pimentao,?,N,AM,grande,cluster10
+manejo,arroz,latossolo,N,PA,grande,cluster10
+fertilizante,soja,latossolo,N,PA,grande,cluster10
+manejo,?,?,N,PA,grande,cluster10
+irrigacao,?,?,N,PA,grande,cluster10
+irrigacao,melancia,?,N,RR,grande,cluster10
+'manejo do solo',?,latossolo,N,AM,grande,cluster10
+fertilizante,arroz,latossolo,N,PA,grande,cluster10
+adubacao,soja,?,N,PA,grande,cluster10
+manejo,?,?,N,AM,grande,cluster10
+fertilizante,arroz,latossolo,N,PA,grande,cluster10
+'manejo de agua',uva,?,N,PA,grande,cluster10
+'plantio direto',?,?,N,PA,grande,cluster10
+manejo,?,?,N,RO,grande,cluster10
+manejo,pimentao,?,N,AM,grande,cluster10
+'melhoramento genetico',abacaxi,?,N,AC,grande,cluster10
+manejo,abacaxi,?,N,AC,grande,cluster10
+'manejo de agua',?,?,N,PA,grande,cluster10
+'manejo de agua',uva,?,N,PA,grande,cluster10
+manejo,mandioca,?,N,AC,grande,cluster10
+manejo,?,?,N,TO,grande,cluster10
+manejo,cafe,?,N,AC,grande,cluster10
+irrigacao,?,?,N,PA,grande,cluster10
+manejo,cevada,?,N,AM,grande,cluster10
+irrigacao,melancia,?,N,RR,grande,cluster10
+irrigacao,cana-de-acucar,?,N,PA,grande,cluster10
+irrigacao,cana-de-acucar,?,N,PA,grande,cluster10
+adubacao,soja,latossolo,N,PA,grande,cluster10
+irrigacao,?,?,N,PA,grande,cluster10
+irrigacao,?,?,N,PA,grande,cluster10
+irrigacao,?,?,N,PA,grande,cluster10
+'manejo nos cultivos',soja,?,N,PA,grande,cluster10
+manejo,arroz,?,N,RR,grande,cluster10
+manejo,arroz,latossolo,N,PA,grande,cluster10
+manejo,arroz,?,N,RR,grande,cluster10
+manejo,cevada,?,N,AM,grande,cluster10
+'melhoramento genetico',banana,?,N,AC,grande,cluster10
+manejo,?,?,N,TO,grande,cluster10
+irrigacao,?,?,N,PA,grande,cluster10
+'plantio direto',soja,latossolo,N,PA,grande,cluster10
+'manejo do ambiente',pimentao,?,N,AM,grande,cluster10
+adubacao,soja,latossolo,N,PA,grande,cluster10
+manejo,?,?,N,AM,grande,cluster10
+'manejo dos recursos hidricos',?,?,N,PA,grande,cluster10
+manejo,uva,?,N,TO,grande,cluster10
+'manejo nos cultivos',soja,?,N,PA,grande,cluster10
+'plantio direto',arroz,latossolo,N,PA,grande,cluster10
+fertilizante,soja,latossolo,N,PA,grande,cluster10
+adubacao,arroz,latossolo,N,PA,grande,cluster10
